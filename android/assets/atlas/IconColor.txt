@@ -1,0 +1,7438 @@
+IconColor.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BTN3M1
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTN3M2
+  rotate: false
+  xy: 68, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTN3M3
+  rotate: false
+  xy: 134, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAbomination
+  rotate: false
+  xy: 200, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAbsorbMagic
+  rotate: false
+  xy: 266, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAcolyte
+  rotate: false
+  xy: 332, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAcorn
+  rotate: false
+  xy: 398, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAdvStruct
+  rotate: false
+  xy: 464, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAdvancedCreatureAttack
+  rotate: false
+  xy: 530, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAdvancedCreatureCarapace
+  rotate: false
+  xy: 596, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAdvancedDeathTower
+  rotate: false
+  xy: 662, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAdvancedEnergyTower
+  rotate: false
+  xy: 728, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAdvancedFlameTower
+  rotate: false
+  xy: 794, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAdvancedFrostTower
+  rotate: false
+  xy: 860, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAdvancedMoonArmor
+  rotate: false
+  xy: 926, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAdvancedReinforcedHides
+  rotate: false
+  xy: 992, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAdvancedRockTower
+  rotate: false
+  xy: 1058, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAdvancedSpikedBarricades
+  rotate: false
+  xy: 2, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAdvancedStrengthOfTheMoon
+  rotate: false
+  xy: 68, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAdvancedStrengthOfTheWild
+  rotate: false
+  xy: 134, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAdvancedUnholyArmor
+  rotate: false
+  xy: 200, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAdvancedUnholyStrength
+  rotate: false
+  xy: 266, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAkama
+  rotate: false
+  xy: 332, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAlbatross
+  rotate: false
+  xy: 398, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAlleriaFlute
+  rotate: false
+  xy: 464, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAltarOfDarkness
+  rotate: false
+  xy: 530, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAltarOfDepths
+  rotate: false
+  xy: 596, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAltarOfElders
+  rotate: false
+  xy: 662, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAltarOfKings
+  rotate: false
+  xy: 728, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAltarOfStorms
+  rotate: false
+  xy: 794, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAmbush
+  rotate: false
+  xy: 860, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAmmoDump
+  rotate: false
+  xy: 926, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAmulet
+  rotate: false
+  xy: 992, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAmuletOftheWild
+  rotate: false
+  xy: 1058, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAncestralSpirit
+  rotate: false
+  xy: 2, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAncientOfLore
+  rotate: false
+  xy: 68, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAncientOfTheEarth
+  rotate: false
+  xy: 134, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAncientOfTheMoon
+  rotate: false
+  xy: 200, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAncientOfWonders
+  rotate: false
+  xy: 266, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAnimalWarTraining
+  rotate: false
+  xy: 332, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAnimateDead
+  rotate: false
+  xy: 398, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAnkh
+  rotate: false
+  xy: 464, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAntiMagicShell
+  rotate: false
+  xy: 530, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNArachnathid
+  rotate: false
+  xy: 596, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNArachnathidGreen
+  rotate: false
+  xy: 662, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNArachnathidpurple
+  rotate: false
+  xy: 728, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNArcaneObservatory
+  rotate: false
+  xy: 794, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNArcaneSanctum
+  rotate: false
+  xy: 860, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNArcaneTower
+  rotate: false
+  xy: 926, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNArcaneVault
+  rotate: false
+  xy: 992, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNArcaniteArchitecture
+  rotate: false
+  xy: 1058, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNArcaniteArmor
+  rotate: false
+  xy: 2, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNArcaniteMelee
+  rotate: false
+  xy: 68, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNArcaniteRanged
+  rotate: false
+  xy: 134, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNArcher
+  rotate: false
+  xy: 200, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNArchimonde
+  rotate: false
+  xy: 266, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNArmorGolem
+  rotate: false
+  xy: 332, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNArmoredOge
+  rotate: false
+  xy: 398, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNArthas
+  rotate: false
+  xy: 464, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAssassin
+  rotate: false
+  xy: 530, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAttack
+  rotate: false
+  xy: 596, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAttackGround
+  rotate: false
+  xy: 662, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAuraOfDarkness
+  rotate: false
+  xy: 728, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAvatar
+  rotate: false
+  xy: 794, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAvatarOff
+  rotate: false
+  xy: 860, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAvatarOn
+  rotate: false
+  xy: 926, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAvengingAssassin
+  rotate: false
+  xy: 992, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAvengingWatcher
+  rotate: false
+  xy: 1058, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAvengingWatcherOff
+  rotate: false
+  xy: 2, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAvengingWatcherOn
+  rotate: false
+  xy: 2, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNAzureDragon
+  rotate: false
+  xy: 68, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBLoodMage2
+  rotate: false
+  xy: 134, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBacktoWork
+  rotate: false
+  xy: 200, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBallista
+  rotate: false
+  xy: 266, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBandit
+  rotate: false
+  xy: 332, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBanditLord
+  rotate: false
+  xy: 398, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBanditMage
+  rotate: false
+  xy: 464, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBanditSpearThrower
+  rotate: false
+  xy: 530, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBanish
+  rotate: false
+  xy: 596, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBanshee
+  rotate: false
+  xy: 662, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBansheeAdept
+  rotate: false
+  xy: 728, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBansheeMaster
+  rotate: false
+  xy: 794, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBansheeRanger
+  rotate: false
+  xy: 860, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBarkSkin
+  rotate: false
+  xy: 926, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBarkSkinOff
+  rotate: false
+  xy: 992, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBarkSkinOn
+  rotate: false
+  xy: 992, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBarracks
+  rotate: false
+  xy: 1058, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBarrel
+  rotate: false
+  xy: 2, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBash
+  rotate: false
+  xy: 68, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBasicStruct
+  rotate: false
+  xy: 134, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBattleRoar
+  rotate: false
+  xy: 200, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBattleShip
+  rotate: false
+  xy: 266, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBattleStations
+  rotate: false
+  xy: 332, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBearBlink
+  rotate: false
+  xy: 398, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBearDen
+  rotate: false
+  xy: 464, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBearForm
+  rotate: false
+  xy: 530, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBeastMaster
+  rotate: false
+  xy: 596, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBeastiary
+  rotate: false
+  xy: 662, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBelt
+  rotate: false
+  xy: 728, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBerserk
+  rotate: false
+  xy: 794, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBerserkForTrolls
+  rotate: false
+  xy: 860, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBigBadVoodooSpell
+  rotate: false
+  xy: 926, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBlackCitadel
+  rotate: false
+  xy: 992, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBlackDragon
+  rotate: false
+  xy: 1058, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBlackDragonRoost
+  rotate: false
+  xy: 2, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBlackMammoth
+  rotate: false
+  xy: 68, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBlackMarket
+  rotate: false
+  xy: 134, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBlacksmith
+  rotate: false
+  xy: 200, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBlink
+  rotate: false
+  xy: 266, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBlizzard
+  rotate: false
+  xy: 332, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBlood&GhostKey
+  rotate: false
+  xy: 398, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBloodElfPeasant
+  rotate: false
+  xy: 464, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBloodElfSupplyWagon
+  rotate: false
+  xy: 530, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBloodKey
+  rotate: false
+  xy: 596, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBloodLust
+  rotate: false
+  xy: 662, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBloodLustOff
+  rotate: false
+  xy: 728, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBloodLustOn
+  rotate: false
+  xy: 728, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBlueDemoness
+  rotate: false
+  xy: 794, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBlueDragonRoost
+  rotate: false
+  xy: 860, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBlueDragonSpawn
+  rotate: false
+  xy: 926, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBlueMagnataur
+  rotate: false
+  xy: 992, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBoneChimes
+  rotate: false
+  xy: 1058, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBoneYard
+  rotate: false
+  xy: 2, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBookOfSummoning
+  rotate: false
+  xy: 68, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBookOfTheDead
+  rotate: false
+  xy: 134, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBoots
+  rotate: false
+  xy: 200, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBootsOfSpeed
+  rotate: false
+  xy: 266, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBox
+  rotate: false
+  xy: 332, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBreathOfFire
+  rotate: false
+  xy: 398, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBreathOfFrost
+  rotate: false
+  xy: 464, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBrilliance
+  rotate: false
+  xy: 530, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBronzeBowl
+  rotate: false
+  xy: 596, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBronzeBowlFull
+  rotate: false
+  xy: 662, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBronzeDragon
+  rotate: false
+  xy: 728, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNBundleOfLumber
+  rotate: false
+  xy: 794, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCOP
+  rotate: false
+  xy: 860, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCage
+  rotate: false
+  xy: 926, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCagedIllidan
+  rotate: false
+  xy: 992, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCallToArms
+  rotate: false
+  xy: 1058, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCancel
+  rotate: false
+  xy: 2, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCannibalize
+  rotate: false
+  xy: 68, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCannonTower
+  rotate: false
+  xy: 134, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCarrionScarabs
+  rotate: false
+  xy: 200, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCarrionScarabsOff
+  rotate: false
+  xy: 266, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCarrionScarabsOn
+  rotate: false
+  xy: 266, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCarrionSwarm
+  rotate: false
+  xy: 332, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCastle
+  rotate: false
+  xy: 398, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCatapult
+  rotate: false
+  xy: 464, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCentaur
+  rotate: false
+  xy: 530, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCentaurArcher
+  rotate: false
+  xy: 596, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCentaurKhan
+  rotate: false
+  xy: 662, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNChainLightning
+  rotate: false
+  xy: 728, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNChaosBlademaster
+  rotate: false
+  xy: 794, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNChaosGrom
+  rotate: false
+  xy: 860, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNChaosGrunt
+  rotate: false
+  xy: 926, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNChaosKotoBeast
+  rotate: false
+  xy: 992, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNChaosPeon
+  rotate: false
+  xy: 1058, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNChaosSpaceOrc
+  rotate: false
+  xy: 2, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNChaosWarlock
+  rotate: false
+  xy: 68, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNChaosWarlockGreen
+  rotate: false
+  xy: 134, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNChaosWarlord
+  rotate: false
+  xy: 200, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNChaosWolfRider
+  rotate: false
+  xy: 266, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCharm
+  rotate: false
+  xy: 332, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCheese
+  rotate: false
+  xy: 398, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNChestOfGold
+  rotate: false
+  xy: 464, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNChimaera
+  rotate: false
+  xy: 530, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNChimaeraRoost
+  rotate: false
+  xy: 596, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNChime
+  rotate: false
+  xy: 662, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCirclet
+  rotate: false
+  xy: 728, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNClawsOfAttack
+  rotate: false
+  xy: 794, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNClayFigurine
+  rotate: false
+  xy: 860, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCleavingAttack
+  rotate: false
+  xy: 926, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCloak
+  rotate: false
+  xy: 992, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCloakOfFlames
+  rotate: false
+  xy: 1058, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCloudOfFog
+  rotate: false
+  xy: 2, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNColdArrows
+  rotate: false
+  xy: 68, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNColdArrowsOff
+  rotate: false
+  xy: 134, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNColdArrowsOn
+  rotate: false
+  xy: 134, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNColdTower
+  rotate: false
+  xy: 200, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCommand
+  rotate: false
+  xy: 266, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNControlMagic
+  rotate: false
+  xy: 332, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCoralBed
+  rotate: false
+  xy: 398, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCorpseExplode
+  rotate: false
+  xy: 464, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCorrosiveBreath
+  rotate: false
+  xy: 530, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCorruptedAncientOfWar
+  rotate: false
+  xy: 596, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCorruptedAncientProtector
+  rotate: false
+  xy: 662, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCorruptedEnt
+  rotate: false
+  xy: 728, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCorruptedMoonWell
+  rotate: false
+  xy: 794, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCorruptedTreeOfLife
+  rotate: false
+  xy: 860, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCrate
+  rotate: false
+  xy: 926, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCreatureAttack
+  rotate: false
+  xy: 992, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCreatureCarapace
+  rotate: false
+  xy: 1058, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCripple
+  rotate: false
+  xy: 2, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCriticalStrike
+  rotate: false
+  xy: 68, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCrushingWave
+  rotate: false
+  xy: 134, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCrypt
+  rotate: false
+  xy: 200, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCryptFiend
+  rotate: false
+  xy: 266, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCryptFiendBurrow
+  rotate: false
+  xy: 332, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCryptFiendUnBurrow
+  rotate: false
+  xy: 398, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCrystalBall
+  rotate: false
+  xy: 464, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCurse
+  rotate: false
+  xy: 530, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCurseOff
+  rotate: false
+  xy: 596, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCurseOn
+  rotate: false
+  xy: 596, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNCyclone
+  rotate: false
+  xy: 662, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDOCAdeptTraining
+  rotate: false
+  xy: 728, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDOCMasterTraining
+  rotate: false
+  xy: 794, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDOTAdeptTraining
+  rotate: false
+  xy: 860, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDOTMasterTraining
+  rotate: false
+  xy: 926, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDaggerOfEscape
+  rotate: false
+  xy: 992, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDalaranGuardTower
+  rotate: false
+  xy: 1058, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDalaranMutant
+  rotate: false
+  xy: 2, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDalaranReject
+  rotate: false
+  xy: 68, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDarkPortal
+  rotate: false
+  xy: 134, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDarkRitual
+  rotate: false
+  xy: 200, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDarkSummoning
+  rotate: false
+  xy: 266, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDarkTroll
+  rotate: false
+  xy: 332, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDarkTrollShadowPriest
+  rotate: false
+  xy: 398, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDarkTrollTrapper
+  rotate: false
+  xy: 464, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDeathAndDecay
+  rotate: false
+  xy: 530, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDeathCoil
+  rotate: false
+  xy: 596, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDeathPact
+  rotate: false
+  xy: 662, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDeathTower
+  rotate: false
+  xy: 728, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDeepLordRevenant
+  rotate: false
+  xy: 794, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDefend
+  rotate: false
+  xy: 860, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDefendStop
+  rotate: false
+  xy: 926, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDemolisher
+  rotate: false
+  xy: 992, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDemonGate
+  rotate: false
+  xy: 1058, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDemoness
+  rotate: false
+  xy: 2, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDenOfWonders
+  rotate: false
+  xy: 68, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDestroyer
+  rotate: false
+  xy: 134, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDevotion
+  rotate: false
+  xy: 200, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDevour
+  rotate: false
+  xy: 266, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDevourMagic
+  rotate: false
+  xy: 332, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDireWolf
+  rotate: false
+  xy: 398, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDisenchant
+  rotate: false
+  xy: 464, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDispelMagic
+  rotate: false
+  xy: 530, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDivineIntervention
+  rotate: false
+  xy: 596, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDivineShieldOff
+  rotate: false
+  xy: 662, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDizzy
+  rotate: false
+  xy: 728, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDoom
+  rotate: false
+  xy: 794, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDoomGuard
+  rotate: false
+  xy: 860, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDragonHawk
+  rotate: false
+  xy: 926, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDragonRoost
+  rotate: false
+  xy: 992, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDrain
+  rotate: false
+  xy: 1058, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDranai
+  rotate: false
+  xy: 2, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDranaiAkama
+  rotate: false
+  xy: 68, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDranaiChiefHut
+  rotate: false
+  xy: 134, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDranaiHut
+  rotate: false
+  xy: 200, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDranaiMage
+  rotate: false
+  xy: 266, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDruidOfTheClaw
+  rotate: false
+  xy: 332, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDruidOfTheTalon
+  rotate: false
+  xy: 398, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDrum
+  rotate: false
+  xy: 464, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDrunkenDodge
+  rotate: false
+  xy: 530, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDryad
+  rotate: false
+  xy: 596, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDryadDispelMagic
+  rotate: false
+  xy: 662, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDryadDispelMagicOff
+  rotate: false
+  xy: 728, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDryadDispelMagicOn
+  rotate: false
+  xy: 728, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDuneWorm
+  rotate: false
+  xy: 794, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDust
+  rotate: false
+  xy: 860, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDustOfAppearance
+  rotate: false
+  xy: 926, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNDwarvenLongRifle
+  rotate: false
+  xy: 992, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNEarthBrewMaster
+  rotate: false
+  xy: 1058, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNEarthquake
+  rotate: false
+  xy: 2, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNEatTree
+  rotate: false
+  xy: 68, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNElfVillager
+  rotate: false
+  xy: 134, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNElvenFarm
+  rotate: false
+  xy: 200, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNElvenGuardTower
+  rotate: false
+  xy: 266, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNEnchantedBears
+  rotate: false
+  xy: 332, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNEnchantedCrows
+  rotate: false
+  xy: 398, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNEnchantedGemstone
+  rotate: false
+  xy: 464, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNEnergyTower
+  rotate: false
+  xy: 530, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNEnsnare
+  rotate: false
+  xy: 596, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNEnt
+  rotate: false
+  xy: 662, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNEntangleMine
+  rotate: false
+  xy: 728, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNEntanglingRoots
+  rotate: false
+  xy: 794, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNEntrapmentWard
+  rotate: false
+  xy: 860, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNEnvenomedSpear
+  rotate: false
+  xy: 926, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNEredarWarlockPurple
+  rotate: false
+  xy: 992, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNEtherealFormOn
+  rotate: false
+  xy: 1058, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNEvasion
+  rotate: false
+  xy: 2, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNEvilIllidan
+  rotate: false
+  xy: 68, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNExhumeCorpses
+  rotate: false
+  xy: 134, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNExpandedView
+  rotate: false
+  xy: 200, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFacelessOne
+  rotate: false
+  xy: 266, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFaerieDragon
+  rotate: false
+  xy: 332, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFaerieFire
+  rotate: false
+  xy: 398, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFaerieFireOff
+  rotate: false
+  xy: 464, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFaerieFireOn
+  rotate: false
+  xy: 464, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFanOfKnives
+  rotate: false
+  xy: 530, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFarSight
+  rotate: false
+  xy: 596, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFarm
+  rotate: false
+  xy: 662, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFeedBack
+  rotate: false
+  xy: 728, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFelBoar
+  rotate: false
+  xy: 794, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFelGuard
+  rotate: false
+  xy: 860, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFelGuardBlue
+  rotate: false
+  xy: 926, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFelHound
+  rotate: false
+  xy: 992, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFemaleElfVillager
+  rotate: false
+  xy: 1058, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFire
+  rotate: false
+  xy: 2, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFireBolt
+  rotate: false
+  xy: 68, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFireBrewMaster
+  rotate: false
+  xy: 134, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFireForTheCannon
+  rotate: false
+  xy: 200, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFireRocks
+  rotate: false
+  xy: 266, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFlakCannons
+  rotate: false
+  xy: 332, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFlameTower
+  rotate: false
+  xy: 398, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFlamingArrows
+  rotate: false
+  xy: 464, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFlare
+  rotate: false
+  xy: 530, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFleshGolem
+  rotate: false
+  xy: 596, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFlute
+  rotate: false
+  xy: 662, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFlyingMachine
+  rotate: false
+  xy: 728, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFootman
+  rotate: false
+  xy: 794, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNForceOfNature
+  rotate: false
+  xy: 860, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNForestTroll
+  rotate: false
+  xy: 926, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNForestTrollShadowPriest
+  rotate: false
+  xy: 992, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNForestTrollTrapper
+  rotate: false
+  xy: 1058, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNForge
+  rotate: false
+  xy: 2, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNForgottenOne
+  rotate: false
+  xy: 68, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFortress
+  rotate: false
+  xy: 134, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFountainOfLife
+  rotate: false
+  xy: 200, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFountainOfLifeBlood
+  rotate: false
+  xy: 266, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFountainOfLifeDefiled
+  rotate: false
+  xy: 332, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFragmentationBombs
+  rotate: false
+  xy: 398, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFreezingBreath
+  rotate: false
+  xy: 464, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFrost
+  rotate: false
+  xy: 530, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFrostArmor
+  rotate: false
+  xy: 596, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFrostArmorOff
+  rotate: false
+  xy: 662, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFrostArmorOn
+  rotate: false
+  xy: 662, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFrostBear
+  rotate: false
+  xy: 728, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFrostBolt
+  rotate: false
+  xy: 794, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFrostMourne
+  rotate: false
+  xy: 860, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFrostTower
+  rotate: false
+  xy: 926, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFrostWyrm
+  rotate: false
+  xy: 992, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFurbolg
+  rotate: false
+  xy: 1058, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFurbolgElder
+  rotate: false
+  xy: 2, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFurbolgPanda
+  rotate: false
+  xy: 68, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFurbolgShaman
+  rotate: false
+  xy: 134, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFurbolgTracker
+  rotate: false
+  xy: 200, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNFurion
+  rotate: false
+  xy: 266, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGLExchange
+  rotate: false
+  xy: 332, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGMExchange
+  rotate: false
+  xy: 398, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGargoyle
+  rotate: false
+  xy: 464, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGarithos
+  rotate: false
+  xy: 530, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGatherGold
+  rotate: false
+  xy: 596, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGauntletsOfOgrePower
+  rotate: false
+  xy: 662, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGem
+  rotate: false
+  xy: 728, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGenericCreepBuilding
+  rotate: false
+  xy: 794, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGenericHumanBuilding
+  rotate: false
+  xy: 860, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGenericSpellImmunity
+  rotate: false
+  xy: 926, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGhost
+  rotate: false
+  xy: 992, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGhostKey
+  rotate: false
+  xy: 1058, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGhostMage
+  rotate: false
+  xy: 2, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGhostOfKelThuzad
+  rotate: false
+  xy: 68, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGhoul
+  rotate: false
+  xy: 134, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGhoulFrenzy
+  rotate: false
+  xy: 200, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGlacier
+  rotate: false
+  xy: 266, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGlaiveThrower
+  rotate: false
+  xy: 332, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGlove
+  rotate: false
+  xy: 398, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGlyph
+  rotate: false
+  xy: 464, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGnoll
+  rotate: false
+  xy: 530, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGnollArcher
+  rotate: false
+  xy: 596, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGnollCommandAura
+  rotate: false
+  xy: 662, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGnollKing
+  rotate: false
+  xy: 728, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGnollWarden
+  rotate: false
+  xy: 794, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGoblinLandMine
+  rotate: false
+  xy: 860, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGoblinSapper
+  rotate: false
+  xy: 926, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGoblinShipyard
+  rotate: false
+  xy: 992, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGoblinZeppelin
+  rotate: false
+  xy: 1058, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGoldRing
+  rotate: false
+  xy: 2, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGoldmine
+  rotate: false
+  xy: 68, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGolemStormBolt
+  rotate: false
+  xy: 134, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGolemThunderClap
+  rotate: false
+  xy: 200, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGrabTree
+  rotate: false
+  xy: 266, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGraveYard
+  rotate: false
+  xy: 332, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGreatHall
+  rotate: false
+  xy: 398, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGreaterInvisibility
+  rotate: false
+  xy: 464, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGreaterInvulneralbility
+  rotate: false
+  xy: 530, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGreaterRejuvPotion
+  rotate: false
+  xy: 596, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGreaterRejuvScroll
+  rotate: false
+  xy: 662, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGreenDragon
+  rotate: false
+  xy: 728, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGreenDragonRoost
+  rotate: false
+  xy: 794, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGreenDragonSpawn
+  rotate: false
+  xy: 860, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGreenHydra
+  rotate: false
+  xy: 926, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGrimWard
+  rotate: false
+  xy: 992, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGrizzlyBear
+  rotate: false
+  xy: 1058, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGrunt
+  rotate: false
+  xy: 2, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGryphonAviary
+  rotate: false
+  xy: 68, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGryphonRider
+  rotate: false
+  xy: 134, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGuardTower
+  rotate: false
+  xy: 200, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGuardianWard
+  rotate: false
+  xy: 266, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGuldan
+  rotate: false
+  xy: 332, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGuldanSkull
+  rotate: false
+  xy: 398, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNGyrocopter
+  rotate: false
+  xy: 464, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHallOfTheDead
+  rotate: false
+  xy: 530, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHammer
+  rotate: false
+  xy: 596, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHardenedSkin
+  rotate: false
+  xy: 662, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHarpy
+  rotate: false
+  xy: 728, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHarpyQueen
+  rotate: false
+  xy: 794, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHarpyWitch
+  rotate: false
+  xy: 860, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHauntedMine
+  rotate: false
+  xy: 926, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHeadHunterBerserker
+  rotate: false
+  xy: 992, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHeadhunter
+  rotate: false
+  xy: 1058, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHeal
+  rotate: false
+  xy: 2, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHealOff
+  rotate: false
+  xy: 68, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHealOn
+  rotate: false
+  xy: 68, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHealingSalve
+  rotate: false
+  xy: 134, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHealingWard
+  rotate: false
+  xy: 200, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHealingWave
+  rotate: false
+  xy: 266, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHealthStone
+  rotate: false
+  xy: 332, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHeartOfAszune
+  rotate: false
+  xy: 398, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHeartOfSearinox
+  rotate: false
+  xy: 464, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHellScream
+  rotate: false
+  xy: 530, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHelmOfValor
+  rotate: false
+  xy: 596, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHelmutPurple
+  rotate: false
+  xy: 662, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHermitCrab
+  rotate: false
+  xy: 728, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHeroArchMage
+  rotate: false
+  xy: 794, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHeroBlademaster
+  rotate: false
+  xy: 860, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHeroBloodElfPrince
+  rotate: false
+  xy: 926, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHeroCryptLord
+  rotate: false
+  xy: 992, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHeroDeathKnight
+  rotate: false
+  xy: 1058, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHeroDemonHunter
+  rotate: false
+  xy: 2, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHeroDreadLord
+  rotate: false
+  xy: 68, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHeroFarseer
+  rotate: false
+  xy: 134, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHeroLich
+  rotate: false
+  xy: 200, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHeroMoonPriestess
+  rotate: false
+  xy: 266, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHeroMountainKing
+  rotate: false
+  xy: 332, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHeroPaladin
+  rotate: false
+  xy: 398, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHeroTaurenChieftain
+  rotate: false
+  xy: 464, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHeroWarden
+  rotate: false
+  xy: 530, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHex
+  rotate: false
+  xy: 596, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHighElvenArcher
+  rotate: false
+  xy: 662, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHippogriff
+  rotate: false
+  xy: 728, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHippogriffRider
+  rotate: false
+  xy: 794, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHire
+  rotate: false
+  xy: 860, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHoldPosition
+  rotate: false
+  xy: 926, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHolyBolt
+  rotate: false
+  xy: 992, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHolyWater
+  rotate: false
+  xy: 1058, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHoodOfCunning
+  rotate: false
+  xy: 2, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHornOfCenarius
+  rotate: false
+  xy: 68, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHornOfDoom
+  rotate: false
+  xy: 134, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHornOfFog
+  rotate: false
+  xy: 200, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHowlOfTerror
+  rotate: false
+  xy: 266, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHumanArcaneTower
+  rotate: false
+  xy: 332, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHumanArmorUpOne
+  rotate: false
+  xy: 398, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHumanArmorUpThree
+  rotate: false
+  xy: 464, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHumanArmorUpTwo
+  rotate: false
+  xy: 530, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHumanArtilleryUpOne
+  rotate: false
+  xy: 596, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHumanBarracks
+  rotate: false
+  xy: 662, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHumanBattleShip
+  rotate: false
+  xy: 728, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHumanBuild
+  rotate: false
+  xy: 794, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHumanCaptureFlag
+  rotate: false
+  xy: 860, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHumanDestroyer
+  rotate: false
+  xy: 926, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHumanLumberMill
+  rotate: false
+  xy: 992, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHumanLumberUpgrade1
+  rotate: false
+  xy: 1058, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHumanLumberUpgrade2
+  rotate: false
+  xy: 2, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHumanMissileUpOne
+  rotate: false
+  xy: 68, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHumanMissileUpThree
+  rotate: false
+  xy: 134, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHumanMissileUpTwo
+  rotate: false
+  xy: 200, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHumanShipyard
+  rotate: false
+  xy: 266, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHumanTransport
+  rotate: false
+  xy: 332, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHumanWatchTower
+  rotate: false
+  xy: 398, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHuntersHall
+  rotate: false
+  xy: 464, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHuntress
+  rotate: false
+  xy: 530, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHydra
+  rotate: false
+  xy: 596, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHydraWarStomp
+  rotate: false
+  xy: 662, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNHydralisk
+  rotate: false
+  xy: 728, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNIceCrownObelisk
+  rotate: false
+  xy: 794, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNIceShard
+  rotate: false
+  xy: 860, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNIceTroll
+  rotate: false
+  xy: 926, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNIceTrollBeserker
+  rotate: false
+  xy: 992, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNIceTrollShadowPriest
+  rotate: false
+  xy: 1058, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNIceTrollShaman
+  rotate: false
+  xy: 2, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNIcyTreasureBox
+  rotate: false
+  xy: 68, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNIllidanPrisonWagon
+  rotate: false
+  xy: 134, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNImbuedMasonry
+  rotate: false
+  xy: 200, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNImmolationOff
+  rotate: false
+  xy: 266, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNImmolationOn
+  rotate: false
+  xy: 332, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNImpale
+  rotate: false
+  xy: 398, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNImpalingBolt
+  rotate: false
+  xy: 464, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNImprovedBows
+  rotate: false
+  xy: 530, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNImprovedCreatureAttack
+  rotate: false
+  xy: 596, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNImprovedCreatureCarapace
+  rotate: false
+  xy: 662, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNImprovedMining
+  rotate: false
+  xy: 728, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNImprovedMoonArmor
+  rotate: false
+  xy: 794, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNImprovedReinforcedHides
+  rotate: false
+  xy: 860, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNImprovedSpikedBarricades
+  rotate: false
+  xy: 926, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNImprovedStrengthOfTheMoon
+  rotate: false
+  xy: 992, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNImprovedStrengthOfTheWild
+  rotate: false
+  xy: 1058, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNImprovedUnholyArmor
+  rotate: false
+  xy: 2, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNImprovedUnholyStrength
+  rotate: false
+  xy: 68, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNInfernal
+  rotate: false
+  xy: 134, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNInfernalCannon
+  rotate: false
+  xy: 200, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNInfernalFlameCannon
+  rotate: false
+  xy: 266, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNInfernalStone
+  rotate: false
+  xy: 332, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNInn
+  rotate: false
+  xy: 398, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNInnerFire
+  rotate: false
+  xy: 464, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNInnerFireOff
+  rotate: false
+  xy: 530, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNInnerFireOn
+  rotate: false
+  xy: 530, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNInvisibility
+  rotate: false
+  xy: 596, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNInvulnerable
+  rotate: false
+  xy: 662, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNJaina
+  rotate: false
+  xy: 728, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNJanggo
+  rotate: false
+  xy: 794, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNJuggernaut
+  rotate: false
+  xy: 860, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNJungleBeast
+  rotate: false
+  xy: 926, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNJunkGolem
+  rotate: false
+  xy: 992, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNKeep
+  rotate: false
+  xy: 1058, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNKeeperGhostBlue
+  rotate: false
+  xy: 2, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNKeeperOfTheGrove
+  rotate: false
+  xy: 68, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNKelThuzad
+  rotate: false
+  xy: 134, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNKiljaedin
+  rotate: false
+  xy: 200, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNKnight
+  rotate: false
+  xy: 266, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNKobold
+  rotate: false
+  xy: 332, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNKoboldGeomancer
+  rotate: false
+  xy: 398, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNKotoBeast
+  rotate: false
+  xy: 464, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNLGExchange
+  rotate: false
+  xy: 530, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNLament
+  rotate: false
+  xy: 596, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNLamp
+  rotate: false
+  xy: 662, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNLeatherUpgradeOne
+  rotate: false
+  xy: 728, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNLeatherUpgradeThree
+  rotate: false
+  xy: 794, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNLeatherUpgradeTwo
+  rotate: false
+  xy: 860, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNLesserClarityPotion
+  rotate: false
+  xy: 926, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNLesserInvisibility
+  rotate: false
+  xy: 992, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNLesserInvulneralbility
+  rotate: false
+  xy: 1058, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNLesserRejuvPotion
+  rotate: false
+  xy: 2, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNLesserRejuvScroll
+  rotate: false
+  xy: 68, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNLichVersion2
+  rotate: false
+  xy: 134, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNLifeDrain
+  rotate: false
+  xy: 200, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNLightningShield
+  rotate: false
+  xy: 266, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNLionHorn
+  rotate: false
+  xy: 332, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNLiquidFire
+  rotate: false
+  xy: 398, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNLoad
+  rotate: false
+  xy: 464, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNLoadDwarf
+  rotate: false
+  xy: 530, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNLoadPeon
+  rotate: false
+  xy: 596, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNLobstrokkBlue
+  rotate: false
+  xy: 662, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNLobstrokkGreen
+  rotate: false
+  xy: 728, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNLobstrokkRed
+  rotate: false
+  xy: 794, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNLocustSwarm
+  rotate: false
+  xy: 860, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMGExchange
+  rotate: false
+  xy: 926, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMageTower
+  rotate: false
+  xy: 992, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMagicImmunity
+  rotate: false
+  xy: 1058, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMagicLariet
+  rotate: false
+  xy: 2, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMagicVault
+  rotate: false
+  xy: 68, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMagicalSentry
+  rotate: false
+  xy: 134, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMagnataur
+  rotate: false
+  xy: 200, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMagnataurBrown
+  rotate: false
+  xy: 266, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMammoth
+  rotate: false
+  xy: 332, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNManaBurn
+  rotate: false
+  xy: 398, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNManaDrain
+  rotate: false
+  xy: 464, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNManaFlare
+  rotate: false
+  xy: 530, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNManaFlareOff
+  rotate: false
+  xy: 596, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNManaRecharge
+  rotate: false
+  xy: 662, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNManaRechargeOff
+  rotate: false
+  xy: 728, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNManaRechargeOn
+  rotate: false
+  xy: 728, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNManaShield
+  rotate: false
+  xy: 794, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNManaStone
+  rotate: false
+  xy: 860, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMannoroth
+  rotate: false
+  xy: 926, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMantle
+  rotate: false
+  xy: 992, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMantleOfIntelligence
+  rotate: false
+  xy: 1058, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNManual
+  rotate: false
+  xy: 2, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNManual2
+  rotate: false
+  xy: 68, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNManual3
+  rotate: false
+  xy: 134, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMarine
+  rotate: false
+  xy: 200, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMarkOfFire
+  rotate: false
+  xy: 266, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMarketPlace
+  rotate: false
+  xy: 332, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMarksmanship
+  rotate: false
+  xy: 398, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMaskOfDeath
+  rotate: false
+  xy: 464, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMassTeleport
+  rotate: false
+  xy: 530, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMeatWagon
+  rotate: false
+  xy: 596, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMeatapult
+  rotate: false
+  xy: 662, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMechanicalCritter
+  rotate: false
+  xy: 728, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMedalionOfCourage
+  rotate: false
+  xy: 794, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMedivh
+  rotate: false
+  xy: 860, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMercenaryCamp
+  rotate: false
+  xy: 926, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMerchant
+  rotate: false
+  xy: 992, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMetamorphosis
+  rotate: false
+  xy: 1058, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMilitia
+  rotate: false
+  xy: 2, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMinorRejuvPotion
+  rotate: false
+  xy: 68, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMirrorImage
+  rotate: false
+  xy: 134, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMonsoon
+  rotate: false
+  xy: 200, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMonsterLure
+  rotate: false
+  xy: 266, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMoonArmor
+  rotate: false
+  xy: 332, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMoonKey
+  rotate: false
+  xy: 398, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMoonStone
+  rotate: false
+  xy: 464, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMoonWell
+  rotate: false
+  xy: 530, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMortarTeam
+  rotate: false
+  xy: 596, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMountainGiant
+  rotate: false
+  xy: 662, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMove
+  rotate: false
+  xy: 728, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMurgalSlave
+  rotate: false
+  xy: 794, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMurgulBloodGill
+  rotate: false
+  xy: 860, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMurgulShadowCaster
+  rotate: false
+  xy: 926, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMurgulTideWarrior
+  rotate: false
+  xy: 992, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMurloc
+  rotate: false
+  xy: 1058, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMurlocFleshEater
+  rotate: false
+  xy: 2, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMurlocMutant
+  rotate: false
+  xy: 68, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNMurlocNightCrawler
+  rotate: false
+  xy: 134, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNagaArmorUp1
+  rotate: false
+  xy: 200, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNagaArmorUp2
+  rotate: false
+  xy: 266, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNagaArmorUp3
+  rotate: false
+  xy: 332, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNagaBurrow
+  rotate: false
+  xy: 398, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNagaMyrmidon
+  rotate: false
+  xy: 464, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNagaMyrmidonRoyalGuard
+  rotate: false
+  xy: 530, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNagaSeaWitch
+  rotate: false
+  xy: 596, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNagaSummoner
+  rotate: false
+  xy: 662, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNagaUnBurrow
+  rotate: false
+  xy: 728, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNagaWeaponUp1
+  rotate: false
+  xy: 794, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNagaWeaponUp2
+  rotate: false
+  xy: 860, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNagaWeaponUp3
+  rotate: false
+  xy: 926, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNatureTouchGrow
+  rotate: false
+  xy: 992, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNaturesBlessing
+  rotate: false
+  xy: 1058, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNecklace
+  rotate: false
+  xy: 2, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNecromancer
+  rotate: false
+  xy: 68, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNecromancerAdept
+  rotate: false
+  xy: 134, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNecromancerMaster
+  rotate: false
+  xy: 200, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNecropolis
+  rotate: false
+  xy: 266, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNerubian
+  rotate: false
+  xy: 332, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNerubianQueen
+  rotate: false
+  xy: 398, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNerubianZiggurat
+  rotate: false
+  xy: 464, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNetherDragon
+  rotate: false
+  xy: 530, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNeutralManaShield
+  rotate: false
+  xy: 596, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNightElfBattleCruiser
+  rotate: false
+  xy: 662, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNightElfBuild
+  rotate: false
+  xy: 728, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNightElfCaptureFlag
+  rotate: false
+  xy: 794, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNightElfDestroyer
+  rotate: false
+  xy: 860, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNightElfFishingBoat
+  rotate: false
+  xy: 926, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNightElfFishingVillage
+  rotate: false
+  xy: 992, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNightElfRunner
+  rotate: false
+  xy: 1058, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNightElfShipyard
+  rotate: false
+  xy: 2, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNNightElfTransport
+  rotate: false
+  xy: 68, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNObsidianStatue
+  rotate: false
+  xy: 134, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOgre
+  rotate: false
+  xy: 200, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOgreLord
+  rotate: false
+  xy: 266, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOgreMagi
+  rotate: false
+  xy: 332, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOneHeadedOgre
+  rotate: false
+  xy: 398, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOrb
+  rotate: false
+  xy: 464, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOrbOfCorruption
+  rotate: false
+  xy: 530, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOrbOfDarkness
+  rotate: false
+  xy: 596, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOrbOfDeath
+  rotate: false
+  xy: 662, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOrbOfDeathOff
+  rotate: false
+  xy: 728, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOrbOfDeathOn
+  rotate: false
+  xy: 728, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOrbOfFire
+  rotate: false
+  xy: 794, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOrbOfFrost
+  rotate: false
+  xy: 860, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOrbOfLightning
+  rotate: false
+  xy: 926, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOrbOfVenom
+  rotate: false
+  xy: 992, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOrbofSlowness
+  rotate: false
+  xy: 1058, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOrcBattleStandard
+  rotate: false
+  xy: 2, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOrcCaptureFlag
+  rotate: false
+  xy: 68, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOrcDestroyer
+  rotate: false
+  xy: 134, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOrcLumberUpgradeTwo
+  rotate: false
+  xy: 200, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOrcMeleeUpOne
+  rotate: false
+  xy: 266, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOrcMeleeUpThree
+  rotate: false
+  xy: 332, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOrcMeleeUpTwo
+  rotate: false
+  xy: 398, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOrcRallyPoint
+  rotate: false
+  xy: 464, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOrcTower
+  rotate: false
+  xy: 530, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOrcWarlock
+  rotate: false
+  xy: 596, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOrcWarlockRed
+  rotate: false
+  xy: 662, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOrcishTransport
+  rotate: false
+  xy: 728, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOtherBarrel
+  rotate: false
+  xy: 794, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNOwlBear
+  rotate: false
+  xy: 860, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPackBeast
+  rotate: false
+  xy: 926, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPandaTaunt
+  rotate: false
+  xy: 992, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPandarenBrewmaster
+  rotate: false
+  xy: 1058, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNParasite
+  rotate: false
+  xy: 2, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNParasiteOff
+  rotate: false
+  xy: 68, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNParasiteOn
+  rotate: false
+  xy: 68, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPatrol
+  rotate: false
+  xy: 134, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPeasant
+  rotate: false
+  xy: 200, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPebble
+  rotate: false
+  xy: 266, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPendantOfEnergy
+  rotate: false
+  xy: 332, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPendantOfMana
+  rotate: false
+  xy: 398, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPenguin
+  rotate: false
+  xy: 464, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPeon
+  rotate: false
+  xy: 530, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPeriapt
+  rotate: false
+  xy: 596, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPeriapt1
+  rotate: false
+  xy: 662, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPhaseShift
+  rotate: false
+  xy: 728, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPhaseShiftOff
+  rotate: false
+  xy: 794, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPhaseShiftOn
+  rotate: false
+  xy: 794, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPhilosophersStone
+  rotate: false
+  xy: 860, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPhoenixEgg
+  rotate: false
+  xy: 926, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPickUpItem
+  rotate: false
+  xy: 992, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPig
+  rotate: false
+  xy: 1058, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPigFarm
+  rotate: false
+  xy: 2, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPillage
+  rotate: false
+  xy: 68, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPipeOfInsight
+  rotate: false
+  xy: 134, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPitLord
+  rotate: false
+  xy: 200, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPlagueCloud
+  rotate: false
+  xy: 266, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPoisonArrow
+  rotate: false
+  xy: 332, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPoisonSting
+  rotate: false
+  xy: 398, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPolarFurbolg
+  rotate: false
+  xy: 464, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPolarFurbolgElder
+  rotate: false
+  xy: 530, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPolarFurbolgShaman
+  rotate: false
+  xy: 596, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPolarFurbolgTracker
+  rotate: false
+  xy: 662, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPolymorph
+  rotate: false
+  xy: 728, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPortal
+  rotate: false
+  xy: 794, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPossession
+  rotate: false
+  xy: 860, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPotionBlue
+  rotate: false
+  xy: 926, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPotionBlueBig
+  rotate: false
+  xy: 992, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPotionBlueSmall
+  rotate: false
+  xy: 1058, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPotionGreen
+  rotate: false
+  xy: 2, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPotionGreenSmall
+  rotate: false
+  xy: 68, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPotionOfClarity
+  rotate: false
+  xy: 134, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPotionOfDivinity
+  rotate: false
+  xy: 200, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPotionOfOmniscience
+  rotate: false
+  xy: 266, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPotionOfRestoration
+  rotate: false
+  xy: 332, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPotionOfVampirism
+  rotate: false
+  xy: 398, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPotionPurple
+  rotate: false
+  xy: 464, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPotionRed
+  rotate: false
+  xy: 530, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPowerGenerator
+  rotate: false
+  xy: 596, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPriest
+  rotate: false
+  xy: 662, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPriestAdept
+  rotate: false
+  xy: 728, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPriestMaster
+  rotate: false
+  xy: 794, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPriestessOfTheMoon
+  rotate: false
+  xy: 860, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNProudMoore
+  rotate: false
+  xy: 926, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPurge
+  rotate: false
+  xy: 992, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNPurpleFelhound
+  rotate: false
+  xy: 1058, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNQuillBeast
+  rotate: false
+  xy: 2, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNQuillBeastGod
+  rotate: false
+  xy: 68, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNQuillSpray
+  rotate: false
+  xy: 134, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNQuillSprayOff
+  rotate: false
+  xy: 200, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRaider
+  rotate: false
+  xy: 266, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRaiseDead
+  rotate: false
+  xy: 332, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRaiseDeadOff
+  rotate: false
+  xy: 398, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRaiseDeadOn
+  rotate: false
+  xy: 398, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRallyPoint
+  rotate: false
+  xy: 464, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRallyPointNightElf
+  rotate: false
+  xy: 530, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRallyPointUndead
+  rotate: false
+  xy: 596, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRavenForm
+  rotate: false
+  xy: 662, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRazorback
+  rotate: false
+  xy: 728, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRazormaneChief
+  rotate: false
+  xy: 794, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRedDragon
+  rotate: false
+  xy: 860, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRedDragonDevour
+  rotate: false
+  xy: 926, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRegenerate
+  rotate: false
+  xy: 992, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRegeneration
+  rotate: false
+  xy: 1058, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRegenerationAura
+  rotate: false
+  xy: 2, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNReincarnation
+  rotate: false
+  xy: 68, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNReinforcedBurrows
+  rotate: false
+  xy: 134, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNReinforcedHides
+  rotate: false
+  xy: 200, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRejuvPotion
+  rotate: false
+  xy: 266, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRejuvenation
+  rotate: false
+  xy: 332, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRejuvenationPotion
+  rotate: false
+  xy: 398, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRepair
+  rotate: false
+  xy: 464, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRepairOff
+  rotate: false
+  xy: 530, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRepairOn
+  rotate: false
+  xy: 530, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNReplay-Loop
+  rotate: false
+  xy: 596, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNReplay-Pause
+  rotate: false
+  xy: 662, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNReplay-Play
+  rotate: false
+  xy: 728, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNReplay-SpeedDown
+  rotate: false
+  xy: 794, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNReplay-SpeedUp
+  rotate: false
+  xy: 860, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNReplenishHealth
+  rotate: false
+  xy: 926, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNReplenishHealthOff
+  rotate: false
+  xy: 992, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNReplenishHealthOn
+  rotate: false
+  xy: 992, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNReplenishMana
+  rotate: false
+  xy: 1058, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNReplenishManaOff
+  rotate: false
+  xy: 2, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNReplenishManaOn
+  rotate: false
+  xy: 2, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNResStone
+  rotate: false
+  xy: 68, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNResistMagic
+  rotate: false
+  xy: 134, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNResistantSkin
+  rotate: false
+  xy: 200, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNResurrection
+  rotate: false
+  xy: 266, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNReturnGoods
+  rotate: false
+  xy: 332, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNReveal
+  rotate: false
+  xy: 398, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRevenant
+  rotate: false
+  xy: 464, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRiderlessHorse
+  rotate: false
+  xy: 530, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRiderlessKodo
+  rotate: false
+  xy: 596, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRifleman
+  rotate: false
+  xy: 662, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRingGreen
+  rotate: false
+  xy: 728, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRingJadeFalcon
+  rotate: false
+  xy: 794, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRingLionHead
+  rotate: false
+  xy: 860, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRingPurple
+  rotate: false
+  xy: 926, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRingSkull
+  rotate: false
+  xy: 992, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRingVioletSpider
+  rotate: false
+  xy: 1058, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRobeOfTheMagi
+  rotate: false
+  xy: 2, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRockGolem
+  rotate: false
+  xy: 68, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRockTower
+  rotate: false
+  xy: 134, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRodOfNecromancy
+  rotate: false
+  xy: 200, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRoot
+  rotate: false
+  xy: 266, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRune
+  rotate: false
+  xy: 332, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNRunedBracers
+  rotate: false
+  xy: 398, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSacrifice
+  rotate: false
+  xy: 464, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSacrificialPit
+  rotate: false
+  xy: 530, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSacrificialSkull
+  rotate: false
+  xy: 596, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSasquatch
+  rotate: false
+  xy: 662, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSasquatchShaman
+  rotate: false
+  xy: 728, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSatyr
+  rotate: false
+  xy: 794, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSatyrTrickster
+  rotate: false
+  xy: 860, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNScatterRockets
+  rotate: false
+  xy: 926, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNScepterOfMastery
+  rotate: false
+  xy: 992, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNScourgeBuild
+  rotate: false
+  xy: 1058, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNScout
+  rotate: false
+  xy: 2, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNScroll
+  rotate: false
+  xy: 68, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNScrollOfHaste
+  rotate: false
+  xy: 134, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNScrollOfHealing
+  rotate: false
+  xy: 200, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNScrollOfProtection
+  rotate: false
+  xy: 266, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNScrollOfRegeneration
+  rotate: false
+  xy: 332, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNScrollOfRegenerationGreen
+  rotate: false
+  xy: 398, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNScrollOfTownPortal
+  rotate: false
+  xy: 464, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNScrollUber
+  rotate: false
+  xy: 530, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSeaElemental
+  rotate: false
+  xy: 596, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSeaGiant
+  rotate: false
+  xy: 662, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSeaGiantGreen
+  rotate: false
+  xy: 728, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSeaGiantPulverize
+  rotate: false
+  xy: 794, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSeaGiantWarStomp
+  rotate: false
+  xy: 860, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSeaTurtleGreen
+  rotate: false
+  xy: 926, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSeaTurtleRed
+  rotate: false
+  xy: 992, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSeaWitch
+  rotate: false
+  xy: 1058, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSeal
+  rotate: false
+  xy: 2, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSearingArrows
+  rotate: false
+  xy: 68, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSearingArrowsOff
+  rotate: false
+  xy: 134, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSearingArrowsOn
+  rotate: false
+  xy: 134, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSeigeEngine
+  rotate: false
+  xy: 200, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSeigeEngineWithMissles
+  rotate: false
+  xy: 266, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSelectHeroOff
+  rotate: false
+  xy: 332, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSelectHeroOn
+  rotate: false
+  xy: 398, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSelectUnit
+  rotate: false
+  xy: 464, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSelfDestruct
+  rotate: false
+  xy: 530, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSelfDestructOff
+  rotate: false
+  xy: 596, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSelfDestructOn
+  rotate: false
+  xy: 596, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSell
+  rotate: false
+  xy: 662, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSentinel
+  rotate: false
+  xy: 728, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSentryWard
+  rotate: false
+  xy: 794, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSerpentWard
+  rotate: false
+  xy: 860, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNShade
+  rotate: false
+  xy: 926, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNShadowHunter
+  rotate: false
+  xy: 992, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNShadowMeld
+  rotate: false
+  xy: 1058, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNShadowPact
+  rotate: false
+  xy: 2, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNShadowStrike
+  rotate: false
+  xy: 68, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNShaman
+  rotate: false
+  xy: 134, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNShamanAdept
+  rotate: false
+  xy: 200, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNShamanMaster
+  rotate: false
+  xy: 266, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNShandris
+  rotate: false
+  xy: 332, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSheep
+  rotate: false
+  xy: 398, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNShimmerWeed
+  rotate: false
+  xy: 464, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNShip
+  rotate: false
+  xy: 530, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNShockWave
+  rotate: false
+  xy: 596, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNShoveler
+  rotate: false
+  xy: 662, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNShrineOfAszhara
+  rotate: false
+  xy: 728, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSilence
+  rotate: false
+  xy: 794, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSirenAdept
+  rotate: false
+  xy: 860, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSirenMaster
+  rotate: false
+  xy: 926, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSkeletalLongevity
+  rotate: false
+  xy: 992, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSkeletalOrc
+  rotate: false
+  xy: 1058, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSkeletalOrcChampion
+  rotate: false
+  xy: 2, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSkeletalOrcGrunt
+  rotate: false
+  xy: 68, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSkeletonArcher
+  rotate: false
+  xy: 134, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSkeletonMage
+  rotate: false
+  xy: 200, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSkeletonWarrior
+  rotate: false
+  xy: 332, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSkillz
+  rotate: false
+  xy: 266, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSkink
+  rotate: false
+  xy: 332, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSlaughterHouse
+  rotate: false
+  xy: 398, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSleep
+  rotate: false
+  xy: 464, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSlippersOfAgility
+  rotate: false
+  xy: 530, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSlow
+  rotate: false
+  xy: 596, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSlowOff
+  rotate: false
+  xy: 662, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSlowOn
+  rotate: false
+  xy: 662, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSlowPoison
+  rotate: false
+  xy: 728, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSludgeCreature
+  rotate: false
+  xy: 794, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSmash
+  rotate: false
+  xy: 860, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSnapDragon
+  rotate: false
+  xy: 926, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSnazzyPotion
+  rotate: false
+  xy: 992, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSnazzyScroll
+  rotate: false
+  xy: 1058, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSnazzyScrollGreen
+  rotate: false
+  xy: 2, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSnazzyScrollPurple
+  rotate: false
+  xy: 68, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSnowOwl
+  rotate: false
+  xy: 134, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSobiMask
+  rotate: false
+  xy: 200, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSorceress
+  rotate: false
+  xy: 266, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSorceressAdept
+  rotate: false
+  xy: 332, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSorceressMaster
+  rotate: false
+  xy: 398, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSoulGem
+  rotate: false
+  xy: 464, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpawningGrounds
+  rotate: false
+  xy: 530, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpellBookBLS
+  rotate: false
+  xy: 596, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpellBreaker
+  rotate: false
+  xy: 662, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpellBreakerMagicDefend
+  rotate: false
+  xy: 728, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpellBreakerMagicUnDefend
+  rotate: false
+  xy: 794, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpellShieldAmulet
+  rotate: false
+  xy: 860, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpellSteal
+  rotate: false
+  xy: 926, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpellStealOff
+  rotate: false
+  xy: 992, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpellStealOn
+  rotate: false
+  xy: 992, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpider
+  rotate: false
+  xy: 1058, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpiderBlack
+  rotate: false
+  xy: 2, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpiderBlue
+  rotate: false
+  xy: 68, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpiderCrab
+  rotate: false
+  xy: 134, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpiderGreen
+  rotate: false
+  xy: 200, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpiderSilkBroach
+  rotate: false
+  xy: 266, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpiderling
+  rotate: false
+  xy: 332, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpikedBarricades
+  rotate: false
+  xy: 398, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpinyCrab
+  rotate: false
+  xy: 464, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpiritLink
+  rotate: false
+  xy: 530, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpiritLodge
+  rotate: false
+  xy: 596, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpiritOfVengeance
+  rotate: false
+  xy: 662, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpiritWalker
+  rotate: false
+  xy: 728, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpiritWalkerAdeptTraining
+  rotate: false
+  xy: 794, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpiritWalkerMasterTraining
+  rotate: false
+  xy: 860, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpiritWolf
+  rotate: false
+  xy: 926, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpiritWyvern
+  rotate: false
+  xy: 992, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSpy
+  rotate: false
+  xy: 1058, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNStaffOfNegation
+  rotate: false
+  xy: 2, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNStaffOfPreservation
+  rotate: false
+  xy: 68, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNStaffOfPurification
+  rotate: false
+  xy: 134, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNStaffOfSanctuary
+  rotate: false
+  xy: 200, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNStaffOfSilence
+  rotate: false
+  xy: 266, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNStaffOfTeleportation
+  rotate: false
+  xy: 332, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNStag
+  rotate: false
+  xy: 398, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNStampede
+  rotate: false
+  xy: 464, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNStarFall
+  rotate: false
+  xy: 530, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNStarWand
+  rotate: false
+  xy: 596, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNStasisTrap
+  rotate: false
+  xy: 662, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNStatUp
+  rotate: false
+  xy: 728, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSteamTank
+  rotate: false
+  xy: 794, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSteelArmor
+  rotate: false
+  xy: 860, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSteelMelee
+  rotate: false
+  xy: 926, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSteelRanged
+  rotate: false
+  xy: 992, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNStone
+  rotate: false
+  xy: 1058, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNStoneArchitecture
+  rotate: false
+  xy: 2, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNStoneForm
+  rotate: false
+  xy: 68, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNStop
+  rotate: false
+  xy: 134, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNStormBolt
+  rotate: false
+  xy: 200, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNStormBrewMaster
+  rotate: false
+  xy: 266, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNStormEarth&Fire
+  rotate: false
+  xy: 332, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNStormHammer
+  rotate: false
+  xy: 398, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNStrengthOfTheMoon
+  rotate: false
+  xy: 464, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNStrengthOfTheWild
+  rotate: false
+  xy: 530, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNStrongDrink
+  rotate: false
+  xy: 596, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNStrongHold
+  rotate: false
+  xy: 662, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNStun
+  rotate: false
+  xy: 728, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSummonWaterElemental
+  rotate: false
+  xy: 794, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSunKey
+  rotate: false
+  xy: 860, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSupportBeam
+  rotate: false
+  xy: 926, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNSylvanusWindRunner
+  rotate: false
+  xy: 992, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTalisman
+  rotate: false
+  xy: 1058, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTameHippogriff
+  rotate: false
+  xy: 2, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTaunt
+  rotate: false
+  xy: 68, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTauren
+  rotate: false
+  xy: 134, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTaurenHut
+  rotate: false
+  xy: 200, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTaurenTotem
+  rotate: false
+  xy: 266, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTavern
+  rotate: false
+  xy: 332, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTelescope
+  rotate: false
+  xy: 398, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTemp
+  rotate: false
+  xy: 464, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTempleOfTheDamned
+  rotate: false
+  xy: 530, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTempleOfTides
+  rotate: false
+  xy: 596, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTentacle
+  rotate: false
+  xy: 662, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTheBlackArrow
+  rotate: false
+  xy: 728, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTheBlackArrowOnOff
+  rotate: false
+  xy: 794, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTheCaptain
+  rotate: false
+  xy: 860, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNThickFur
+  rotate: false
+  xy: 926, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNThievesGuild
+  rotate: false
+  xy: 992, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNThoriumArmor
+  rotate: false
+  xy: 1058, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNThoriumMelee
+  rotate: false
+  xy: 2, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNThoriumRanged
+  rotate: false
+  xy: 68, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNThornShield
+  rotate: false
+  xy: 134, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNThorns
+  rotate: false
+  xy: 200, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNThornyShieldOff
+  rotate: false
+  xy: 266, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNThrall
+  rotate: false
+  xy: 332, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNThunderClap
+  rotate: false
+  xy: 398, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNThunderLizard
+  rotate: false
+  xy: 464, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNThunderLizardEgg
+  rotate: false
+  xy: 530, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNThunderLizardSalamander
+  rotate: false
+  xy: 596, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNThunderLizardVizier
+  rotate: false
+  xy: 662, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTichondrius
+  rotate: false
+  xy: 728, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTidalGuardian
+  rotate: false
+  xy: 794, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTimberWolf
+  rotate: false
+  xy: 860, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTinyCastle
+  rotate: false
+  xy: 926, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTombOfRelics
+  rotate: false
+  xy: 992, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTome
+  rotate: false
+  xy: 1058, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTomeBrown
+  rotate: false
+  xy: 2, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTomeOfRetraining
+  rotate: false
+  xy: 68, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTomeRed
+  rotate: false
+  xy: 134, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTornado
+  rotate: false
+  xy: 200, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTower
+  rotate: false
+  xy: 266, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTownHall
+  rotate: false
+  xy: 332, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTranquility
+  rotate: false
+  xy: 398, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTransport
+  rotate: false
+  xy: 464, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTreant
+  rotate: false
+  xy: 530, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTreeOfAges
+  rotate: false
+  xy: 596, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTreeOfEternity
+  rotate: false
+  xy: 662, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTreeOfLife
+  rotate: false
+  xy: 728, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTrollBatRider
+  rotate: false
+  xy: 794, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTrollBurrow
+  rotate: false
+  xy: 860, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTrueShot
+  rotate: false
+  xy: 926, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTuskaarBlack
+  rotate: false
+  xy: 992, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTuskaarBrown
+  rotate: false
+  xy: 1058, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTuskaarGold
+  rotate: false
+  xy: 2, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNTuskaarNomad
+  rotate: false
+  xy: 68, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUltravision
+  rotate: false
+  xy: 134, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUnLoad
+  rotate: false
+  xy: 200, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUnbroken
+  rotate: false
+  xy: 266, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUndeadAirBarge
+  rotate: false
+  xy: 332, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUndeadBattleShip
+  rotate: false
+  xy: 398, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUndeadCaptureFlag
+  rotate: false
+  xy: 464, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUndeadDestroyer
+  rotate: false
+  xy: 530, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUndeadLoad
+  rotate: false
+  xy: 596, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUndeadLoadOff
+  rotate: false
+  xy: 662, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUndeadLoadOn
+  rotate: false
+  xy: 662, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUndeadShipyard
+  rotate: false
+  xy: 728, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUndeadShrine
+  rotate: false
+  xy: 794, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUndeadTransport
+  rotate: false
+  xy: 860, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUndeadUnLoad
+  rotate: false
+  xy: 926, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUnholyArmor
+  rotate: false
+  xy: 992, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUnholyAura
+  rotate: false
+  xy: 1058, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUnholyFrenzy
+  rotate: false
+  xy: 2, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUnholyStrength
+  rotate: false
+  xy: 68, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUnloadDwarf
+  rotate: false
+  xy: 134, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUnloadPeon
+  rotate: false
+  xy: 200, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUnstableConcoction
+  rotate: false
+  xy: 266, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUnsummonBuilding
+  rotate: false
+  xy: 332, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUpgradeMoonGlaive
+  rotate: false
+  xy: 398, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUpgradeRegenerationAura
+  rotate: false
+  xy: 464, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUproot
+  rotate: false
+  xy: 530, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUrnOfKelThuzad
+  rotate: false
+  xy: 596, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNUsedSoulGem
+  rotate: false
+  xy: 662, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNVampiricAura
+  rotate: false
+  xy: 728, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNVengeanceIncarnate
+  rotate: false
+  xy: 794, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNVialEmpty
+  rotate: false
+  xy: 860, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNVialFull
+  rotate: false
+  xy: 926, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNVillagerKid
+  rotate: false
+  xy: 992, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNVillagerKid2
+  rotate: false
+  xy: 1058, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNVillagerMan
+  rotate: false
+  xy: 2, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNVillagerMan1
+  rotate: false
+  xy: 68, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNVillagerWoman
+  rotate: false
+  xy: 134, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNVoidWalker
+  rotate: false
+  xy: 200, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNVoodooLounge
+  rotate: false
+  xy: 266, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNVorpalBlades
+  rotate: false
+  xy: 332, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNVulture
+  rotate: false
+  xy: 398, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWallOfFire
+  rotate: false
+  xy: 464, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWand
+  rotate: false
+  xy: 530, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWandOfCyclone
+  rotate: false
+  xy: 596, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWandOfManaSteal
+  rotate: false
+  xy: 662, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWandOfNeutralization
+  rotate: false
+  xy: 728, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWandOfShadowSight
+  rotate: false
+  xy: 794, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWandSkull
+  rotate: false
+  xy: 860, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWarEagle
+  rotate: false
+  xy: 926, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWarStomp
+  rotate: false
+  xy: 992, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWarden2
+  rotate: false
+  xy: 1058, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWaygate
+  rotate: false
+  xy: 2, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWeb
+  rotate: false
+  xy: 68, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWebOff
+  rotate: false
+  xy: 134, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWebOn
+  rotate: false
+  xy: 134, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWellSpring
+  rotate: false
+  xy: 200, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWendigo
+  rotate: false
+  xy: 266, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWhirlwind
+  rotate: false
+  xy: 332, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWindSerpent
+  rotate: false
+  xy: 398, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWindWalkOff
+  rotate: false
+  xy: 464, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWindWalkOn
+  rotate: false
+  xy: 530, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWirtsLeg
+  rotate: false
+  xy: 596, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWirtsOtherLeg
+  rotate: false
+  xy: 662, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWisp
+  rotate: false
+  xy: 728, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWispHealOff
+  rotate: false
+  xy: 794, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWispHealOn
+  rotate: false
+  xy: 794, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWispSplode
+  rotate: false
+  xy: 860, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWitchDoctor
+  rotate: false
+  xy: 926, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWitchDoctorAdept
+  rotate: false
+  xy: 992, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWitchDoctorMaster
+  rotate: false
+  xy: 1058, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWolf
+  rotate: false
+  xy: 2, 3962
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWorkshop
+  rotate: false
+  xy: 68, 3962
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWyvern
+  rotate: false
+  xy: 134, 3962
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNWyvernRider
+  rotate: false
+  xy: 200, 3962
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNYouDirtyRat!
+  rotate: false
+  xy: 266, 3962
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNZergling
+  rotate: false
+  xy: 332, 3962
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNZiggurat
+  rotate: false
+  xy: 398, 3962
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNZigguratUpgrade
+  rotate: false
+  xy: 464, 3962
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNZombie
+  rotate: false
+  xy: 530, 3962
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNeredarRed
+  rotate: false
+  xy: 596, 3962
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNnerubianSpiderLord
+  rotate: false
+  xy: 662, 3962
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNneutralManaShieldOff
+  rotate: false
+  xy: 728, 3962
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BTNpurpleDragonSpawn
+  rotate: false
+  xy: 794, 3962
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCage
+  rotate: false
+  xy: 860, 3962
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMagicVault
+  rotate: false
+  xy: 926, 3962
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

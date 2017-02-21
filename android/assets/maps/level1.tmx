@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="32" tileheight="32" nextobjectid="14">
+ <tileset firstgid="1" name="AceA2" tilewidth="32" tileheight="32" tilecount="192" columns="16">
+  <image source="AceA2.png" width="512" height="384"/>
+ </tileset>
+ <layer name="background" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwwENAAAMw6DOv+kLOSSsmqqqqu8ezqADhQ==
+  </data>
+ </layer>
+ <layer name="wall" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJxLZ2BgSB8gTG8wau/Is3c0PY/aO9TtpXfaHWj/jto7cuwdLZ9H7R3q9o6Wz6P20sLegcAAgFZW6Q==
+  </data>
+ </layer>
+ <objectgroup name="object">
+  <object id="8" name="block" gid="59" x="544" y="128" width="32" height="32">
+   <properties>
+    <property name="file" value="monster.json"/>
+    <property name="range" type="float" value="10"/>
+    <property name="score" type="float" value="100"/>
+   </properties>
+  </object>
+  <object id="10" name="block" gid="59" x="544" y="320" width="32" height="32">
+   <properties>
+    <property name="range" type="float" value="10"/>
+    <property name="score" type="float" value="100"/>
+   </properties>
+  </object>
+  <object id="11" name="block" gid="59" x="544" y="512" width="32" height="32">
+   <properties>
+    <property name="range" type="float" value="10"/>
+    <property name="score" type="float" value="100"/>
+   </properties>
+  </object>
+  <object id="12" name="block" gid="59" x="544" y="704" width="32" height="32">
+   <properties>
+    <property name="range" type="float" value="10"/>
+    <property name="score" type="float" value="100"/>
+   </properties>
+  </object>
+  <object id="13" name="block" gid="59" x="544" y="864" width="32" height="32">
+   <properties>
+    <property name="range" type="float" value="10"/>
+    <property name="score" type="float" value="100"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

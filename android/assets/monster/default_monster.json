@@ -1,0 +1,6 @@
+{
+	name: hello
+	score: 50
+	walkRange: 10
+	atackRange: 5
+}

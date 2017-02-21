@@ -1,0 +1,33 @@
+
+splash.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+logo1
+  rotate: false
+  xy: 1, 110
+  size: 503, 107
+  orig: 503, 107
+  offset: 0, 0
+  index: -1
+logo2
+  rotate: false
+  xy: 1, 1
+  size: 503, 107
+  orig: 503, 107
+  offset: 0, 0
+  index: -1
+logo3
+  rotate: false
+  xy: 506, 110
+  size: 503, 107
+  orig: 503, 107
+  offset: 0, 0
+  index: -1
+logo4
+  rotate: false
+  xy: 506, 1
+  size: 503, 107
+  orig: 503, 107
+  offset: 0, 0
+  index: -1

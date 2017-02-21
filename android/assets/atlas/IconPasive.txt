@@ -1,0 +1,389 @@
+IconPasive.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PASBTNBash
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNBattleRoar
+  rotate: false
+  xy: 68, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNBrilliance
+  rotate: false
+  xy: 134, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNCleavingAttack
+  rotate: false
+  xy: 200, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNCommand
+  rotate: false
+  xy: 266, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNCorrosiveBreath
+  rotate: false
+  xy: 332, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNCriticalStrike
+  rotate: false
+  xy: 398, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNDevotion
+  rotate: false
+  xy: 464, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNDrum
+  rotate: false
+  xy: 530, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNDrunkenDodge
+  rotate: false
+  xy: 596, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNEnvenomedSpear
+  rotate: false
+  xy: 662, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNEvasion
+  rotate: false
+  xy: 728, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNExhumeCorpses
+  rotate: false
+  xy: 794, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNFeedBack
+  rotate: false
+  xy: 860, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNFireRocks
+  rotate: false
+  xy: 926, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNFlakCannons
+  rotate: false
+  xy: 992, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNFlyingMachineTrueSight
+  rotate: false
+  xy: 1058, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNFragmentationBombs
+  rotate: false
+  xy: 1124, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNFreezingBreath
+  rotate: false
+  xy: 2, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNFrost
+  rotate: false
+  xy: 68, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNGenericSpellImmunity
+  rotate: false
+  xy: 134, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNGnollCommandAura
+  rotate: false
+  xy: 200, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNGyroCopterTrueSight
+  rotate: false
+  xy: 1058, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNHardenedSkin
+  rotate: false
+  xy: 266, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNHumanArtilleryUpOne
+  rotate: false
+  xy: 332, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNImmolation
+  rotate: false
+  xy: 398, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNImpalingBolt
+  rotate: false
+  xy: 464, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNLiquidFire
+  rotate: false
+  xy: 530, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNMagicImmunity
+  rotate: false
+  xy: 596, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNMagicalSentry
+  rotate: false
+  xy: 662, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNPillage
+  rotate: false
+  xy: 728, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNPlagueCloud
+  rotate: false
+  xy: 794, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNPoisonSting
+  rotate: false
+  xy: 860, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNRegenerate
+  rotate: false
+  xy: 926, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNRegenerationAura
+  rotate: false
+  xy: 992, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNReincarnation
+  rotate: false
+  xy: 1058, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNResistantSkin
+  rotate: false
+  xy: 1124, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNScatterRockets
+  rotate: false
+  xy: 2, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNScout
+  rotate: false
+  xy: 68, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNSeaGiantPulverize
+  rotate: false
+  xy: 134, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNShadeTrueSight
+  rotate: false
+  xy: 200, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNSlowPoison
+  rotate: false
+  xy: 266, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNSmash
+  rotate: false
+  xy: 332, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNSpiritOfVengeance
+  rotate: false
+  xy: 398, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNStatUp
+  rotate: false
+  xy: 464, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNStormHammer
+  rotate: false
+  xy: 530, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNThickFur
+  rotate: false
+  xy: 596, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNThornShield
+  rotate: false
+  xy: 662, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNThorns
+  rotate: false
+  xy: 728, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNTrueShot
+  rotate: false
+  xy: 794, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNUnholyAura
+  rotate: false
+  xy: 860, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNUpgradeMoonGlaive
+  rotate: false
+  xy: 926, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNVampiricAura
+  rotate: false
+  xy: 992, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNVorpalBlades
+  rotate: false
+  xy: 1058, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PASBTNWarStomp
+  rotate: false
+  xy: 1124, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

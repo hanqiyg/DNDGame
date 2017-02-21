@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="32" tileheight="32" nextobjectid="2">
+ <tileset firstgid="1" name="AceA1" tilewidth="32" tileheight="32" tilecount="192" columns="16">
+  <image source="../../../../../resource/TiledResource/AceA1.png" width="512" height="384"/>
+ </tileset>
+ <layer name="background" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwwENAAAMw6Bqn/ILOSSsmqqqqu8e3N/JGA==
+  </data>
+ </layer>
+ <objectgroup name="object">
+  <object id="1" name="plant" gid="7" x="294" y="187" width="32" height="32">
+   <properties>
+    <property name="hp" type="int" value="100"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

@@ -1,0 +1,7816 @@
+IconBlack.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DISBTN3M1
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTN3M2
+  rotate: false
+  xy: 68, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTN3M3
+  rotate: false
+  xy: 134, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAbomination
+  rotate: false
+  xy: 200, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAbsorbMagic
+  rotate: false
+  xy: 266, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAcolyte
+  rotate: false
+  xy: 332, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAcorn
+  rotate: false
+  xy: 398, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAdvStruct
+  rotate: false
+  xy: 464, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAdvancedCreatureAttack
+  rotate: false
+  xy: 530, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAdvancedCreatureCarapace
+  rotate: false
+  xy: 596, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAdvancedDeathTower
+  rotate: false
+  xy: 662, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAdvancedEnergyTower
+  rotate: false
+  xy: 728, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAdvancedFlameTower
+  rotate: false
+  xy: 794, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAdvancedFrostTower
+  rotate: false
+  xy: 860, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAdvancedMoonArmor
+  rotate: false
+  xy: 926, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAdvancedReinforcedHides
+  rotate: false
+  xy: 992, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAdvancedRockTower
+  rotate: false
+  xy: 1058, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAdvancedSpikedBarricades
+  rotate: false
+  xy: 1124, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAdvancedStrengthOfTheMoon
+  rotate: false
+  xy: 2, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAdvancedStrengthOfTheWild
+  rotate: false
+  xy: 68, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAdvancedUnholyArmor
+  rotate: false
+  xy: 134, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAdvancedUnholyStrength
+  rotate: false
+  xy: 200, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAkama
+  rotate: false
+  xy: 266, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAlbatross
+  rotate: false
+  xy: 332, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAlleriaFlute
+  rotate: false
+  xy: 398, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAltarOfDarkness
+  rotate: false
+  xy: 464, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAltarOfDepths
+  rotate: false
+  xy: 530, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAltarOfElders
+  rotate: false
+  xy: 596, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAltarOfKings
+  rotate: false
+  xy: 662, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAltarOfStorms
+  rotate: false
+  xy: 728, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAmbush
+  rotate: false
+  xy: 794, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAmmoDump
+  rotate: false
+  xy: 860, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAmulet
+  rotate: false
+  xy: 926, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAmuletOftheWild
+  rotate: false
+  xy: 992, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAncestralSpirit
+  rotate: false
+  xy: 1058, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAncientOfLore
+  rotate: false
+  xy: 1124, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAncientOfTheEarth
+  rotate: false
+  xy: 2, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAncientOfTheMoon
+  rotate: false
+  xy: 68, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAncientOfWonders
+  rotate: false
+  xy: 134, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAnimalWarTraining
+  rotate: false
+  xy: 200, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAnimateDead
+  rotate: false
+  xy: 266, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAnkh
+  rotate: false
+  xy: 332, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAntiMagicShell
+  rotate: false
+  xy: 398, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNArachnathid
+  rotate: false
+  xy: 464, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNArachnathidGreen
+  rotate: false
+  xy: 530, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNArachnathidpurple
+  rotate: false
+  xy: 596, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNArcaneObservatory
+  rotate: false
+  xy: 662, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNArcaneSanctum
+  rotate: false
+  xy: 728, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNArcaneTower
+  rotate: false
+  xy: 794, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNArcaneVault
+  rotate: false
+  xy: 860, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNArcaniteArchitecture
+  rotate: false
+  xy: 926, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNArcaniteArmor
+  rotate: false
+  xy: 992, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNArcaniteMelee
+  rotate: false
+  xy: 1058, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNArcaniteRanged
+  rotate: false
+  xy: 1124, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNArcher
+  rotate: false
+  xy: 2, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNArchimonde
+  rotate: false
+  xy: 68, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNArmorGolem
+  rotate: false
+  xy: 134, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNArmoredOge
+  rotate: false
+  xy: 200, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNArthas
+  rotate: false
+  xy: 266, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAssassin
+  rotate: false
+  xy: 332, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAttack
+  rotate: false
+  xy: 398, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAttackGround
+  rotate: false
+  xy: 464, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAuraOfDarkness
+  rotate: false
+  xy: 530, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAvatar
+  rotate: false
+  xy: 596, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAvatarOff
+  rotate: false
+  xy: 662, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAvatarOn
+  rotate: false
+  xy: 596, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAvengingAssassin
+  rotate: false
+  xy: 728, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAvengingWatcher
+  rotate: false
+  xy: 794, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAvengingWatcherOff
+  rotate: false
+  xy: 860, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAvengingWatcherOn
+  rotate: false
+  xy: 860, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNAzureDragon
+  rotate: false
+  xy: 926, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBLoodMage2
+  rotate: false
+  xy: 992, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBacktoWork
+  rotate: false
+  xy: 1058, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBallista
+  rotate: false
+  xy: 1124, 200
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBandit
+  rotate: false
+  xy: 2, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBanditLord
+  rotate: false
+  xy: 68, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBanditMage
+  rotate: false
+  xy: 134, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBanditSpearThrower
+  rotate: false
+  xy: 200, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBanish
+  rotate: false
+  xy: 266, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBanshee
+  rotate: false
+  xy: 332, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBansheeAdept
+  rotate: false
+  xy: 398, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBansheeMaster
+  rotate: false
+  xy: 464, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBansheeRanger
+  rotate: false
+  xy: 530, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBarkSkin
+  rotate: false
+  xy: 596, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBarkSkinOff
+  rotate: false
+  xy: 662, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBarkSkinOn
+  rotate: false
+  xy: 662, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBarracks
+  rotate: false
+  xy: 728, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBarrel
+  rotate: false
+  xy: 794, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBash
+  rotate: false
+  xy: 860, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBasicStruct
+  rotate: false
+  xy: 926, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBattleRoar
+  rotate: false
+  xy: 992, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBattleShip
+  rotate: false
+  xy: 1058, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBattleStations
+  rotate: false
+  xy: 1124, 266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBearBlink
+  rotate: false
+  xy: 2, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBearDen
+  rotate: false
+  xy: 68, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBearForm
+  rotate: false
+  xy: 134, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBeastMaster
+  rotate: false
+  xy: 200, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBeastiary
+  rotate: false
+  xy: 266, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBelt
+  rotate: false
+  xy: 332, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBerserk
+  rotate: false
+  xy: 398, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBerserkForTrolls
+  rotate: false
+  xy: 464, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBigBadVoodooSpell
+  rotate: false
+  xy: 530, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBlackCitadel
+  rotate: false
+  xy: 596, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBlackDragon
+  rotate: false
+  xy: 662, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBlackDragonRoost
+  rotate: false
+  xy: 728, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBlackMammoth
+  rotate: false
+  xy: 794, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBlackMarket
+  rotate: false
+  xy: 860, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBlacksmith
+  rotate: false
+  xy: 926, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBlink
+  rotate: false
+  xy: 992, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBlizzard
+  rotate: false
+  xy: 1058, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBlood&GhostKey
+  rotate: false
+  xy: 1124, 332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBloodElfPeasant
+  rotate: false
+  xy: 2, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBloodElfSupplyWagon
+  rotate: false
+  xy: 68, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBloodKey
+  rotate: false
+  xy: 134, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBloodLust
+  rotate: false
+  xy: 200, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBloodLustOff
+  rotate: false
+  xy: 266, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBloodLustOn
+  rotate: false
+  xy: 266, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBlueDemoness
+  rotate: false
+  xy: 332, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBlueDragonRoost
+  rotate: false
+  xy: 398, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBlueDragonSpawn
+  rotate: false
+  xy: 464, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBlueMagnataur
+  rotate: false
+  xy: 530, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBoneChimes
+  rotate: false
+  xy: 596, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBoneYard
+  rotate: false
+  xy: 662, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBookOfSummoning
+  rotate: false
+  xy: 728, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBookOfTheDead
+  rotate: false
+  xy: 794, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBoots
+  rotate: false
+  xy: 860, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBootsOfSpeed
+  rotate: false
+  xy: 926, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBox
+  rotate: false
+  xy: 992, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBreathOfFire
+  rotate: false
+  xy: 1058, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBreathOfFrost
+  rotate: false
+  xy: 1124, 398
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBrilliance
+  rotate: false
+  xy: 2, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBronzeBowl
+  rotate: false
+  xy: 68, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBronzeBowlFull
+  rotate: false
+  xy: 134, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBronzeDragon
+  rotate: false
+  xy: 200, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNBundleOfLumber
+  rotate: false
+  xy: 266, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCOP
+  rotate: false
+  xy: 332, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCage
+  rotate: false
+  xy: 398, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCagedIllidan
+  rotate: false
+  xy: 464, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCallToArms
+  rotate: false
+  xy: 530, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCancel
+  rotate: false
+  xy: 596, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCannibalize
+  rotate: false
+  xy: 662, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCannonTower
+  rotate: false
+  xy: 728, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCarrionScarabs
+  rotate: false
+  xy: 794, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCarrionScarabsOff
+  rotate: false
+  xy: 860, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCarrionScarabsOn
+  rotate: false
+  xy: 860, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCarrionSwarm
+  rotate: false
+  xy: 926, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCastle
+  rotate: false
+  xy: 992, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCatapult
+  rotate: false
+  xy: 1058, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCentaur
+  rotate: false
+  xy: 1124, 464
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCentaurArcher
+  rotate: false
+  xy: 2, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCentaurKhan
+  rotate: false
+  xy: 68, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNChainLightning
+  rotate: false
+  xy: 134, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNChaosBlademaster
+  rotate: false
+  xy: 200, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNChaosGrom
+  rotate: false
+  xy: 266, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNChaosGrunt
+  rotate: false
+  xy: 332, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNChaosKotoBeast
+  rotate: false
+  xy: 398, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNChaosPeon
+  rotate: false
+  xy: 464, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNChaosSpaceOrc
+  rotate: false
+  xy: 530, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNChaosWarlock
+  rotate: false
+  xy: 596, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNChaosWarlockGreen
+  rotate: false
+  xy: 662, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNChaosWarlord
+  rotate: false
+  xy: 728, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNChaosWolfRider
+  rotate: false
+  xy: 794, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCharm
+  rotate: false
+  xy: 860, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCheese
+  rotate: false
+  xy: 926, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNChestOfGold
+  rotate: false
+  xy: 992, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNChimaera
+  rotate: false
+  xy: 1058, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNChimaeraRoost
+  rotate: false
+  xy: 1124, 530
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNChime
+  rotate: false
+  xy: 2, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCirclet
+  rotate: false
+  xy: 68, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNClawsOfAttack
+  rotate: false
+  xy: 134, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNClayFigurine
+  rotate: false
+  xy: 200, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCleavingAttack
+  rotate: false
+  xy: 266, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCloak
+  rotate: false
+  xy: 332, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCloakOfFlames
+  rotate: false
+  xy: 398, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCloudOfFog
+  rotate: false
+  xy: 464, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNColdArrows
+  rotate: false
+  xy: 530, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNColdArrowsOff
+  rotate: false
+  xy: 530, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNColdArrowsOn
+  rotate: false
+  xy: 530, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNColdTower
+  rotate: false
+  xy: 596, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCommand
+  rotate: false
+  xy: 662, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNControlMagic
+  rotate: false
+  xy: 728, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCoralBed
+  rotate: false
+  xy: 794, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCorpseExplode
+  rotate: false
+  xy: 860, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCorrosiveBreath
+  rotate: false
+  xy: 926, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCorruptedAncientOfWar
+  rotate: false
+  xy: 992, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCorruptedAncientProtector
+  rotate: false
+  xy: 1058, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCorruptedEnt
+  rotate: false
+  xy: 1124, 596
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCorruptedMoonWell
+  rotate: false
+  xy: 2, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCorruptedTreeOfLife
+  rotate: false
+  xy: 68, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCrate
+  rotate: false
+  xy: 134, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCreatureAttack
+  rotate: false
+  xy: 200, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCreatureCarapace
+  rotate: false
+  xy: 266, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCripple
+  rotate: false
+  xy: 332, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCriticalStrike
+  rotate: false
+  xy: 398, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCrushingWave
+  rotate: false
+  xy: 464, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCrypt
+  rotate: false
+  xy: 530, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCryptFiend
+  rotate: false
+  xy: 596, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCryptFiendBurrow
+  rotate: false
+  xy: 662, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCryptFiendUnBurrow
+  rotate: false
+  xy: 728, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCrystalBall
+  rotate: false
+  xy: 794, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCurse
+  rotate: false
+  xy: 860, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCurseOff
+  rotate: false
+  xy: 926, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCurseOn
+  rotate: false
+  xy: 926, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNCyclone
+  rotate: false
+  xy: 992, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDOCAdeptTraining
+  rotate: false
+  xy: 1058, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDOCMasterTraining
+  rotate: false
+  xy: 1124, 662
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDOTAdeptTraining
+  rotate: false
+  xy: 2, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDOTMasterTraining
+  rotate: false
+  xy: 68, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDaggerOfEscape
+  rotate: false
+  xy: 134, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDalaranGuardTower
+  rotate: false
+  xy: 200, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDalaranMutant
+  rotate: false
+  xy: 266, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDalaranReject
+  rotate: false
+  xy: 332, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDarkPortal
+  rotate: false
+  xy: 398, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDarkRitual
+  rotate: false
+  xy: 464, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDarkSummoning
+  rotate: false
+  xy: 530, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDarkTroll
+  rotate: false
+  xy: 596, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDarkTrollShadowPriest
+  rotate: false
+  xy: 662, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDarkTrollTrapper
+  rotate: false
+  xy: 728, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDeathAndDecay
+  rotate: false
+  xy: 794, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDeathCoil
+  rotate: false
+  xy: 860, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDeathPact
+  rotate: false
+  xy: 926, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDeathTower
+  rotate: false
+  xy: 992, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDeepLordRevenant
+  rotate: false
+  xy: 1058, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDefend
+  rotate: false
+  xy: 1124, 728
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDefendStop
+  rotate: false
+  xy: 2, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDemolisher
+  rotate: false
+  xy: 68, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDemonGate
+  rotate: false
+  xy: 134, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDemoness
+  rotate: false
+  xy: 200, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDenOfWonders
+  rotate: false
+  xy: 266, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDestroyer
+  rotate: false
+  xy: 332, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDevotion
+  rotate: false
+  xy: 398, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDevour
+  rotate: false
+  xy: 464, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDevourMagic
+  rotate: false
+  xy: 530, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDireWolf
+  rotate: false
+  xy: 596, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDisenchant
+  rotate: false
+  xy: 662, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDispelMagic
+  rotate: false
+  xy: 728, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDivineIntervention
+  rotate: false
+  xy: 794, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDivineShieldOff
+  rotate: false
+  xy: 860, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDizzy
+  rotate: false
+  xy: 926, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDoom
+  rotate: false
+  xy: 992, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDoomGuard
+  rotate: false
+  xy: 1058, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDragonHawk
+  rotate: false
+  xy: 1124, 794
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDragonRoost
+  rotate: false
+  xy: 2, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDrain
+  rotate: false
+  xy: 68, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDranai
+  rotate: false
+  xy: 134, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDranaiAkama
+  rotate: false
+  xy: 200, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDranaiChiefHut
+  rotate: false
+  xy: 266, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDranaiHut
+  rotate: false
+  xy: 332, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDranaiMage
+  rotate: false
+  xy: 398, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDruidOfTheClaw
+  rotate: false
+  xy: 464, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDruidOfTheTalon
+  rotate: false
+  xy: 530, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDrum
+  rotate: false
+  xy: 596, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDrunkenDodge
+  rotate: false
+  xy: 662, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDryad
+  rotate: false
+  xy: 728, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDryadDispelMagic
+  rotate: false
+  xy: 794, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDryadDispelMagicOff
+  rotate: false
+  xy: 860, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDryadDispelMagicOn
+  rotate: false
+  xy: 860, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDuneWorm
+  rotate: false
+  xy: 926, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDust
+  rotate: false
+  xy: 992, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDustOfAppearance
+  rotate: false
+  xy: 1058, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNDwarvenLongRifle
+  rotate: false
+  xy: 1124, 860
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNEarthBrewMaster
+  rotate: false
+  xy: 2, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNEarthquake
+  rotate: false
+  xy: 68, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNEatTree
+  rotate: false
+  xy: 134, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNElfVillager
+  rotate: false
+  xy: 200, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNElvenFarm
+  rotate: false
+  xy: 266, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNElvenGuardTower
+  rotate: false
+  xy: 332, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNEnchantedBears
+  rotate: false
+  xy: 398, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNEnchantedCrows
+  rotate: false
+  xy: 464, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNEnchantedGemstone
+  rotate: false
+  xy: 530, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNEnergyTower
+  rotate: false
+  xy: 596, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNEnsnare
+  rotate: false
+  xy: 662, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNEnt
+  rotate: false
+  xy: 728, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNEntangleMine
+  rotate: false
+  xy: 794, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNEntanglingRoots
+  rotate: false
+  xy: 860, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNEntrapmentWard
+  rotate: false
+  xy: 926, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNEnvenomedSpear
+  rotate: false
+  xy: 992, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNEredarWarlockPurple
+  rotate: false
+  xy: 1058, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNEtherealFormOn
+  rotate: false
+  xy: 1124, 926
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNEvasion
+  rotate: false
+  xy: 2, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNEvilIllidan
+  rotate: false
+  xy: 68, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNExhumeCorpses
+  rotate: false
+  xy: 134, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNExpandedView
+  rotate: false
+  xy: 200, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFacelessOne
+  rotate: false
+  xy: 266, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFaerieDragon
+  rotate: false
+  xy: 332, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFaerieFire
+  rotate: false
+  xy: 398, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFaerieFireOff
+  rotate: false
+  xy: 464, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFaerieFireOn
+  rotate: false
+  xy: 464, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFanOfKnives
+  rotate: false
+  xy: 530, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFarSight
+  rotate: false
+  xy: 596, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFarm
+  rotate: false
+  xy: 662, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFeedBack
+  rotate: false
+  xy: 728, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFelBoar
+  rotate: false
+  xy: 794, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFelGuard
+  rotate: false
+  xy: 860, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFelGuardBlue
+  rotate: false
+  xy: 926, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFelHound
+  rotate: false
+  xy: 992, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFelStalker
+  rotate: false
+  xy: 992, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFemaleElfVillager
+  rotate: false
+  xy: 1058, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFire
+  rotate: false
+  xy: 1124, 992
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFireBolt
+  rotate: false
+  xy: 2, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFireBrewMaster
+  rotate: false
+  xy: 68, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFireForTheCannon
+  rotate: false
+  xy: 134, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFireRocks
+  rotate: false
+  xy: 200, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFlakCannons
+  rotate: false
+  xy: 266, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFlameTower
+  rotate: false
+  xy: 332, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFlamingArrows
+  rotate: false
+  xy: 398, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFlare
+  rotate: false
+  xy: 464, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFleshGolem
+  rotate: false
+  xy: 530, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFlute
+  rotate: false
+  xy: 596, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFlyingMachine
+  rotate: false
+  xy: 662, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFootman
+  rotate: false
+  xy: 728, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNForceOfNature
+  rotate: false
+  xy: 794, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNForestTroll
+  rotate: false
+  xy: 860, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNForestTrollShadowPriest
+  rotate: false
+  xy: 926, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNForestTrollTrapper
+  rotate: false
+  xy: 992, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNForge
+  rotate: false
+  xy: 1058, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNForgottenOne
+  rotate: false
+  xy: 1124, 1058
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFortress
+  rotate: false
+  xy: 2, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFountainOfLife
+  rotate: false
+  xy: 68, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFountainOfLifeBlood
+  rotate: false
+  xy: 134, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFountainOfLifeDefiled
+  rotate: false
+  xy: 200, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFragmentationBombs
+  rotate: false
+  xy: 266, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFreezingBreath
+  rotate: false
+  xy: 332, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFrost
+  rotate: false
+  xy: 398, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFrostArmor
+  rotate: false
+  xy: 464, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFrostArmorOff
+  rotate: false
+  xy: 464, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFrostArmorOn
+  rotate: false
+  xy: 464, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFrostBear
+  rotate: false
+  xy: 530, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFrostBolt
+  rotate: false
+  xy: 596, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFrostMourne
+  rotate: false
+  xy: 662, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFrostTower
+  rotate: false
+  xy: 728, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFrostWyrm
+  rotate: false
+  xy: 794, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFurbolg
+  rotate: false
+  xy: 860, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFurbolgElder
+  rotate: false
+  xy: 926, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFurbolgPanda
+  rotate: false
+  xy: 992, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFurbolgShaman
+  rotate: false
+  xy: 1058, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFurbolgTracker
+  rotate: false
+  xy: 1124, 1124
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNFurion
+  rotate: false
+  xy: 2, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGLExchange
+  rotate: false
+  xy: 68, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGMExchange
+  rotate: false
+  xy: 134, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGargoyle
+  rotate: false
+  xy: 200, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGarithos
+  rotate: false
+  xy: 266, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGatherGold
+  rotate: false
+  xy: 332, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGauntletsOfOgrePower
+  rotate: false
+  xy: 398, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGem
+  rotate: false
+  xy: 464, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGenericCreepBuilding
+  rotate: false
+  xy: 530, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGenericHumanBuilding
+  rotate: false
+  xy: 596, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGenericSpellImmunity
+  rotate: false
+  xy: 662, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGhost
+  rotate: false
+  xy: 728, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGhostKey
+  rotate: false
+  xy: 794, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGhostMage
+  rotate: false
+  xy: 860, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGhostOfKelThuzad
+  rotate: false
+  xy: 926, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGhoul
+  rotate: false
+  xy: 992, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGhoulFrenzy
+  rotate: false
+  xy: 1058, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGlacier
+  rotate: false
+  xy: 1124, 1190
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGlaiveThrower
+  rotate: false
+  xy: 2, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGlove
+  rotate: false
+  xy: 68, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGlyph
+  rotate: false
+  xy: 134, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGnoll
+  rotate: false
+  xy: 200, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGnollArcher
+  rotate: false
+  xy: 266, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGnollCommandAura
+  rotate: false
+  xy: 332, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGnollKing
+  rotate: false
+  xy: 398, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGnollWarden
+  rotate: false
+  xy: 464, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGoblinLandMine
+  rotate: false
+  xy: 530, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGoblinSapper
+  rotate: false
+  xy: 596, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGoblinShipyard
+  rotate: false
+  xy: 662, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGoblinZeppelin
+  rotate: false
+  xy: 728, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGoldRing
+  rotate: false
+  xy: 794, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGoldmine
+  rotate: false
+  xy: 860, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGolemStormBolt
+  rotate: false
+  xy: 926, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGolemThunderClap
+  rotate: false
+  xy: 992, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGrabTree
+  rotate: false
+  xy: 1058, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGraveYard
+  rotate: false
+  xy: 1124, 1256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGreatHall
+  rotate: false
+  xy: 2, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGreaterInvisibility
+  rotate: false
+  xy: 68, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGreaterInvulneralbility
+  rotate: false
+  xy: 134, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGreaterRejuvPotion
+  rotate: false
+  xy: 200, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGreaterRejuvScroll
+  rotate: false
+  xy: 266, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGreenDragon
+  rotate: false
+  xy: 332, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGreenDragonRoost
+  rotate: false
+  xy: 398, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGreenDragonSpawn
+  rotate: false
+  xy: 464, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGreenHydra
+  rotate: false
+  xy: 530, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGrimWard
+  rotate: false
+  xy: 596, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGrizzlyBear
+  rotate: false
+  xy: 662, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGrunt
+  rotate: false
+  xy: 728, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGryphonAviary
+  rotate: false
+  xy: 794, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGryphonRider
+  rotate: false
+  xy: 860, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGuardTower
+  rotate: false
+  xy: 926, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGuardianWard
+  rotate: false
+  xy: 992, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGuldan
+  rotate: false
+  xy: 1058, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGuldanSkull
+  rotate: false
+  xy: 1124, 1322
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNGyrocopter
+  rotate: false
+  xy: 2, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHallOfTheDead
+  rotate: false
+  xy: 68, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHammer
+  rotate: false
+  xy: 134, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHardenedSkin
+  rotate: false
+  xy: 200, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHarpy
+  rotate: false
+  xy: 266, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHarpyQueen
+  rotate: false
+  xy: 332, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHarpyWitch
+  rotate: false
+  xy: 398, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHauntedMine
+  rotate: false
+  xy: 464, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHeadHunterBerserker
+  rotate: false
+  xy: 530, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHeadhunter
+  rotate: false
+  xy: 596, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHeal
+  rotate: false
+  xy: 662, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHealOff
+  rotate: false
+  xy: 728, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHealOn
+  rotate: false
+  xy: 728, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHealingSalve
+  rotate: false
+  xy: 794, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHealingWard
+  rotate: false
+  xy: 860, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHealingWave
+  rotate: false
+  xy: 926, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHealthStone
+  rotate: false
+  xy: 992, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHeartOfAszune
+  rotate: false
+  xy: 1058, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHeartOfSearinox
+  rotate: false
+  xy: 1124, 1388
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHellScream
+  rotate: false
+  xy: 2, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHelmOfValor
+  rotate: false
+  xy: 68, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHelmutPurple
+  rotate: false
+  xy: 134, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHermitCrab
+  rotate: false
+  xy: 200, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHeroArchMage
+  rotate: false
+  xy: 266, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHeroBlademaster
+  rotate: false
+  xy: 332, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHeroBloodElfPrince
+  rotate: false
+  xy: 398, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHeroCryptLord
+  rotate: false
+  xy: 464, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHeroDeathKnight
+  rotate: false
+  xy: 530, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHeroDemonHunter
+  rotate: false
+  xy: 596, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHeroDreadLord
+  rotate: false
+  xy: 662, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHeroFarseer
+  rotate: false
+  xy: 728, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHeroLich
+  rotate: false
+  xy: 794, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHeroMoonPriestess
+  rotate: false
+  xy: 860, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHeroMountainKing
+  rotate: false
+  xy: 926, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHeroPaladin
+  rotate: false
+  xy: 992, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHeroTaurenChieftain
+  rotate: false
+  xy: 1058, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHeroWarden
+  rotate: false
+  xy: 1124, 1454
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHex
+  rotate: false
+  xy: 2, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHighElvenArcher
+  rotate: false
+  xy: 68, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHippogriff
+  rotate: false
+  xy: 134, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHippogriffRider
+  rotate: false
+  xy: 200, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHire
+  rotate: false
+  xy: 266, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHoldPosition
+  rotate: false
+  xy: 332, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHolyBolt
+  rotate: false
+  xy: 398, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHolyWater
+  rotate: false
+  xy: 464, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHoodOfCunning
+  rotate: false
+  xy: 530, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHornOfCenarius
+  rotate: false
+  xy: 596, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHornOfDoom
+  rotate: false
+  xy: 662, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHornOfFog
+  rotate: false
+  xy: 728, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHowlOfTerror
+  rotate: false
+  xy: 794, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHumanArcaneTower
+  rotate: false
+  xy: 860, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHumanArmorUpOne
+  rotate: false
+  xy: 926, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHumanArmorUpThree
+  rotate: false
+  xy: 992, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHumanArmorUpTwo
+  rotate: false
+  xy: 1058, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHumanArtilleryUpOne
+  rotate: false
+  xy: 1124, 1520
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHumanBarracks
+  rotate: false
+  xy: 2, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHumanBattleShip
+  rotate: false
+  xy: 68, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHumanBuild
+  rotate: false
+  xy: 134, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHumanCaptureFlag
+  rotate: false
+  xy: 200, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHumanDestroyer
+  rotate: false
+  xy: 266, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHumanLumberMill
+  rotate: false
+  xy: 332, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHumanLumberUpgrade1
+  rotate: false
+  xy: 398, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHumanLumberUpgrade2
+  rotate: false
+  xy: 464, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHumanMissileUpOne
+  rotate: false
+  xy: 530, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHumanMissileUpThree
+  rotate: false
+  xy: 596, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHumanMissileUpTwo
+  rotate: false
+  xy: 662, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHumanShipyard
+  rotate: false
+  xy: 728, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHumanTransport
+  rotate: false
+  xy: 794, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHumanWatchTower
+  rotate: false
+  xy: 860, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHuntersHall
+  rotate: false
+  xy: 926, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHuntress
+  rotate: false
+  xy: 992, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHydra
+  rotate: false
+  xy: 1058, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHydraWarStomp
+  rotate: false
+  xy: 1124, 1586
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNHydralisk
+  rotate: false
+  xy: 2, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNIceCrownObelisk
+  rotate: false
+  xy: 68, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNIceShard
+  rotate: false
+  xy: 134, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNIceTroll
+  rotate: false
+  xy: 200, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNIceTrollBeserker
+  rotate: false
+  xy: 266, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNIceTrollShadowPriest
+  rotate: false
+  xy: 332, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNIceTrollShaman
+  rotate: false
+  xy: 398, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNIcyTreasureBox
+  rotate: false
+  xy: 464, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNIllidanPrisonWagon
+  rotate: false
+  xy: 530, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNImbuedMasonry
+  rotate: false
+  xy: 596, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNImmolationOff
+  rotate: false
+  xy: 662, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNImmolationOn
+  rotate: false
+  xy: 728, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNImpale
+  rotate: false
+  xy: 794, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNImpalingBolt
+  rotate: false
+  xy: 860, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNImprovedBows
+  rotate: false
+  xy: 926, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNImprovedCreatureAttack
+  rotate: false
+  xy: 992, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNImprovedCreatureCarapace
+  rotate: false
+  xy: 1058, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNImprovedMining
+  rotate: false
+  xy: 1124, 1652
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNImprovedMoonArmor
+  rotate: false
+  xy: 2, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNImprovedReinforcedHides
+  rotate: false
+  xy: 68, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNImprovedSpikedBarricades
+  rotate: false
+  xy: 134, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNImprovedStrengthOfTheMoon
+  rotate: false
+  xy: 200, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNImprovedStrengthOfTheWild
+  rotate: false
+  xy: 266, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNImprovedUnholyArmor
+  rotate: false
+  xy: 332, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNImprovedUnholyStrength
+  rotate: false
+  xy: 398, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNInfernal
+  rotate: false
+  xy: 464, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNInfernalCannon
+  rotate: false
+  xy: 530, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNInfernalFlameCannon
+  rotate: false
+  xy: 596, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNInfernalStone
+  rotate: false
+  xy: 662, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNInn
+  rotate: false
+  xy: 728, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNInnerFire
+  rotate: false
+  xy: 794, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNInnerFireOff
+  rotate: false
+  xy: 860, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNInnerFireOn
+  rotate: false
+  xy: 860, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNInvisibility
+  rotate: false
+  xy: 926, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNInvulnerable
+  rotate: false
+  xy: 992, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNJaina
+  rotate: false
+  xy: 1058, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNJanggo
+  rotate: false
+  xy: 1124, 1718
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNJuggernaut
+  rotate: false
+  xy: 2, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNJungleBeast
+  rotate: false
+  xy: 68, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNJunkGolem
+  rotate: false
+  xy: 134, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNKeep
+  rotate: false
+  xy: 200, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNKeeperGhostBlue
+  rotate: false
+  xy: 266, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNKeeperOfTheGrove
+  rotate: false
+  xy: 332, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNKelThuzad
+  rotate: false
+  xy: 398, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNKiljaedin
+  rotate: false
+  xy: 464, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNKnight
+  rotate: false
+  xy: 530, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNKobold
+  rotate: false
+  xy: 596, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNKoboldGeomancer
+  rotate: false
+  xy: 662, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNKotoBeast
+  rotate: false
+  xy: 728, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNLGExchange
+  rotate: false
+  xy: 794, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNLamp
+  rotate: false
+  xy: 860, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNLeatherUpgradeOne
+  rotate: false
+  xy: 926, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNLeatherUpgradeThree
+  rotate: false
+  xy: 992, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNLeatherUpgradeTwo
+  rotate: false
+  xy: 1058, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNLesserClarityPotion
+  rotate: false
+  xy: 1124, 1784
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNLesserInvisibility
+  rotate: false
+  xy: 2, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNLesserInvulneralbility
+  rotate: false
+  xy: 68, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNLesserRejuvPotion
+  rotate: false
+  xy: 134, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNLesserRejuvScroll
+  rotate: false
+  xy: 200, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNLichVersion2
+  rotate: false
+  xy: 266, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNLifeDrain
+  rotate: false
+  xy: 332, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNLightningShield
+  rotate: false
+  xy: 398, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNLionHorn
+  rotate: false
+  xy: 464, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNLiquidFire
+  rotate: false
+  xy: 530, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNLoad
+  rotate: false
+  xy: 596, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNLoadDwarf
+  rotate: false
+  xy: 662, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNLoadPeon
+  rotate: false
+  xy: 728, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNLobstrokkBlue
+  rotate: false
+  xy: 794, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNLobstrokkGreen
+  rotate: false
+  xy: 860, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNLobstrokkRed
+  rotate: false
+  xy: 926, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNLocustSwarm
+  rotate: false
+  xy: 992, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMGExchange
+  rotate: false
+  xy: 1058, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMageTower
+  rotate: false
+  xy: 1124, 1850
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMagicImmunity
+  rotate: false
+  xy: 2, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMagicLariet
+  rotate: false
+  xy: 68, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMagicVault
+  rotate: false
+  xy: 134, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMagicalSentry
+  rotate: false
+  xy: 200, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMagnataur
+  rotate: false
+  xy: 266, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMagnataurBrown
+  rotate: false
+  xy: 332, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMammoth
+  rotate: false
+  xy: 398, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNManaBurn
+  rotate: false
+  xy: 464, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNManaDrain
+  rotate: false
+  xy: 530, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNManaFlare
+  rotate: false
+  xy: 596, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNManaFlareOff
+  rotate: false
+  xy: 662, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNManaRecharge
+  rotate: false
+  xy: 728, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNManaRechargeOff
+  rotate: false
+  xy: 794, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNManaRechargeOn
+  rotate: false
+  xy: 794, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNManaShield
+  rotate: false
+  xy: 860, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNManaStone
+  rotate: false
+  xy: 926, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMannoroth
+  rotate: false
+  xy: 992, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMantle
+  rotate: false
+  xy: 1058, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMantleOfIntelligence
+  rotate: false
+  xy: 1124, 1916
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNManual
+  rotate: false
+  xy: 2, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNManual2
+  rotate: false
+  xy: 68, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNManual3
+  rotate: false
+  xy: 134, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMarine
+  rotate: false
+  xy: 200, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMarkOfFire
+  rotate: false
+  xy: 266, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMarketPlace
+  rotate: false
+  xy: 332, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMarksmanship
+  rotate: false
+  xy: 398, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMaskOfDeath
+  rotate: false
+  xy: 464, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMassTeleport
+  rotate: false
+  xy: 530, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMeatWagon
+  rotate: false
+  xy: 596, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMechanicalCritter
+  rotate: false
+  xy: 662, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMedalionOfCourage
+  rotate: false
+  xy: 728, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMedivh
+  rotate: false
+  xy: 794, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMercenaryCamp
+  rotate: false
+  xy: 860, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMerchant
+  rotate: false
+  xy: 926, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMetamorphosis
+  rotate: false
+  xy: 992, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMilitia
+  rotate: false
+  xy: 1058, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMinorRejuvPotion
+  rotate: false
+  xy: 1124, 1982
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMirrorImage
+  rotate: false
+  xy: 2, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMonsoon
+  rotate: false
+  xy: 68, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMonsterLure
+  rotate: false
+  xy: 134, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMoonArmor
+  rotate: false
+  xy: 200, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMoonKey
+  rotate: false
+  xy: 266, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMoonStone
+  rotate: false
+  xy: 332, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMoonWell
+  rotate: false
+  xy: 398, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMortarTeam
+  rotate: false
+  xy: 464, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMountainGiant
+  rotate: false
+  xy: 530, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMove
+  rotate: false
+  xy: 596, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMurgalSlave
+  rotate: false
+  xy: 662, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMurgulBloodGill
+  rotate: false
+  xy: 728, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMurgulShadowCaster
+  rotate: false
+  xy: 794, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMurgulTideWarrior
+  rotate: false
+  xy: 860, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMurloc
+  rotate: false
+  xy: 926, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMurlocFleshEater
+  rotate: false
+  xy: 992, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMurlocMutant
+  rotate: false
+  xy: 1058, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNMurlocNightCrawler
+  rotate: false
+  xy: 1124, 2048
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNagaArmorUp1
+  rotate: false
+  xy: 2, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNagaArmorUp2
+  rotate: false
+  xy: 68, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNagaArmorUp3
+  rotate: false
+  xy: 134, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNagaBurrow
+  rotate: false
+  xy: 200, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNagaMyrmidon
+  rotate: false
+  xy: 266, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNagaMyrmidonRoyalGuard
+  rotate: false
+  xy: 332, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNagaSeaWitch
+  rotate: false
+  xy: 398, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNagaSummoner
+  rotate: false
+  xy: 464, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNagaUnBurrow
+  rotate: false
+  xy: 530, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNagaWeaponUp1
+  rotate: false
+  xy: 596, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNagaWeaponUp2
+  rotate: false
+  xy: 662, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNagaWeaponUp3
+  rotate: false
+  xy: 728, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNatureTouchGrow
+  rotate: false
+  xy: 794, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNaturesBlessing
+  rotate: false
+  xy: 860, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNecklace
+  rotate: false
+  xy: 926, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNecromancer
+  rotate: false
+  xy: 992, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNecromancerAdept
+  rotate: false
+  xy: 1058, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNecromancerMaster
+  rotate: false
+  xy: 1124, 2114
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNecropolis
+  rotate: false
+  xy: 2, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNerubian
+  rotate: false
+  xy: 68, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNerubianQueen
+  rotate: false
+  xy: 134, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNerubianZiggurat
+  rotate: false
+  xy: 200, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNetherDragon
+  rotate: false
+  xy: 266, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNeutralManaShield
+  rotate: false
+  xy: 332, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNightElfBattleCruiser
+  rotate: false
+  xy: 398, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNightElfBuild
+  rotate: false
+  xy: 464, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNightElfCaptureFlag
+  rotate: false
+  xy: 530, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNightElfDestroyer
+  rotate: false
+  xy: 596, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNightElfFishingBoat
+  rotate: false
+  xy: 662, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNightElfFishingVillage
+  rotate: false
+  xy: 728, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNightElfRunner
+  rotate: false
+  xy: 794, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNightElfShipyard
+  rotate: false
+  xy: 860, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNNightElfTransport
+  rotate: false
+  xy: 926, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNObsidianStatue
+  rotate: false
+  xy: 992, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOgre
+  rotate: false
+  xy: 1058, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOgreLord
+  rotate: false
+  xy: 1124, 2180
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOgreMagi
+  rotate: false
+  xy: 2, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOneHeadedOgre
+  rotate: false
+  xy: 68, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOrb
+  rotate: false
+  xy: 134, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOrbOfCorruption
+  rotate: false
+  xy: 200, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOrbOfDarkness
+  rotate: false
+  xy: 266, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOrbOfDeath
+  rotate: false
+  xy: 332, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOrbOfDeathOff
+  rotate: false
+  xy: 332, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOrbOfDeathOn
+  rotate: false
+  xy: 332, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOrbOfFire
+  rotate: false
+  xy: 398, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOrbOfFrost
+  rotate: false
+  xy: 464, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOrbOfLightning
+  rotate: false
+  xy: 530, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOrbOfVenom
+  rotate: false
+  xy: 596, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOrbofSlowness
+  rotate: false
+  xy: 662, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOrcBattleStandard
+  rotate: false
+  xy: 728, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOrcCaptureFlag
+  rotate: false
+  xy: 794, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOrcDestroyer
+  rotate: false
+  xy: 860, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOrcMeleeUpOne
+  rotate: false
+  xy: 926, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOrcMeleeUpThree
+  rotate: false
+  xy: 992, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOrcMeleeUpTwo
+  rotate: false
+  xy: 1058, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOrcRallyPoint
+  rotate: false
+  xy: 1124, 2246
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOrcTower
+  rotate: false
+  xy: 2, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOrcWarlock
+  rotate: false
+  xy: 68, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOrcWarlockRed
+  rotate: false
+  xy: 134, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOrcishTransport
+  rotate: false
+  xy: 200, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOtherBarrel
+  rotate: false
+  xy: 266, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNOwlBear
+  rotate: false
+  xy: 332, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPackBeast
+  rotate: false
+  xy: 398, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPandaTaunt
+  rotate: false
+  xy: 464, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPandarenBrewmaster
+  rotate: false
+  xy: 530, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNParasite
+  rotate: false
+  xy: 596, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNParasiteOff
+  rotate: false
+  xy: 662, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNParasiteOn
+  rotate: false
+  xy: 662, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPatrol
+  rotate: false
+  xy: 728, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPeasant
+  rotate: false
+  xy: 794, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPebble
+  rotate: false
+  xy: 860, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPendantOfEnergy
+  rotate: false
+  xy: 926, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPendantOfMana
+  rotate: false
+  xy: 992, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPenguin
+  rotate: false
+  xy: 1058, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPeon
+  rotate: false
+  xy: 1124, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPeriapt
+  rotate: false
+  xy: 2, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPeriapt1
+  rotate: false
+  xy: 68, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPhaseShift
+  rotate: false
+  xy: 134, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPhaseShiftOff
+  rotate: false
+  xy: 134, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPhaseShiftOn
+  rotate: false
+  xy: 134, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPhilosophersStone
+  rotate: false
+  xy: 200, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPhoenixEgg
+  rotate: false
+  xy: 266, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPickUpItem
+  rotate: false
+  xy: 332, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPig
+  rotate: false
+  xy: 398, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPigFarm
+  rotate: false
+  xy: 464, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPillage
+  rotate: false
+  xy: 530, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPipeOfInsight
+  rotate: false
+  xy: 596, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPitLord
+  rotate: false
+  xy: 662, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPlagueCloud
+  rotate: false
+  xy: 728, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPoisonArrow
+  rotate: false
+  xy: 794, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPoisonSting
+  rotate: false
+  xy: 860, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPolarFurbolg
+  rotate: false
+  xy: 926, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPolarFurbolgElder
+  rotate: false
+  xy: 992, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPolarFurbolgShaman
+  rotate: false
+  xy: 1058, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPolarFurbolgTracker
+  rotate: false
+  xy: 1124, 2378
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPolymorph
+  rotate: false
+  xy: 2, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPortal
+  rotate: false
+  xy: 68, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPossession
+  rotate: false
+  xy: 134, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPotionBlue
+  rotate: false
+  xy: 200, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPotionBlueBig
+  rotate: false
+  xy: 266, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPotionBlueSmall
+  rotate: false
+  xy: 332, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPotionGreen
+  rotate: false
+  xy: 398, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPotionGreenSmall
+  rotate: false
+  xy: 464, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPotionOfClarity
+  rotate: false
+  xy: 530, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPotionOfDivinity
+  rotate: false
+  xy: 596, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPotionOfOmniscience
+  rotate: false
+  xy: 662, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPotionOfRestoration
+  rotate: false
+  xy: 728, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPotionOfVampirism
+  rotate: false
+  xy: 794, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPotionPurple
+  rotate: false
+  xy: 860, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPotionRed
+  rotate: false
+  xy: 926, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPowerGenerator
+  rotate: false
+  xy: 992, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPriest
+  rotate: false
+  xy: 1058, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPriestAdept
+  rotate: false
+  xy: 1124, 2444
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPriestMaster
+  rotate: false
+  xy: 2, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPriestessOfTheMoon
+  rotate: false
+  xy: 68, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNProudMoore
+  rotate: false
+  xy: 134, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPurge
+  rotate: false
+  xy: 200, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNPurpleFelhound
+  rotate: false
+  xy: 266, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNQuillBeast
+  rotate: false
+  xy: 332, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNQuillBeastGod
+  rotate: false
+  xy: 398, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNQuillSpray
+  rotate: false
+  xy: 464, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNQuillSprayOff
+  rotate: false
+  xy: 530, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRaider
+  rotate: false
+  xy: 596, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRaiseDead
+  rotate: false
+  xy: 662, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRaiseDeadOff
+  rotate: false
+  xy: 728, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRaiseDeadOn
+  rotate: false
+  xy: 728, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRallyPoint
+  rotate: false
+  xy: 794, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRallyPointNightElf
+  rotate: false
+  xy: 860, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRallyPointUndead
+  rotate: false
+  xy: 926, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRavenForm
+  rotate: false
+  xy: 992, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRazorback
+  rotate: false
+  xy: 1058, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRazormaneChief
+  rotate: false
+  xy: 1124, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRedDragon
+  rotate: false
+  xy: 2, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRedDragonDevour
+  rotate: false
+  xy: 68, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRegenerate
+  rotate: false
+  xy: 134, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRegenerationAura
+  rotate: false
+  xy: 200, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNReincarnation
+  rotate: false
+  xy: 266, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNReinforcedBurrows
+  rotate: false
+  xy: 332, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNReinforcedHides
+  rotate: false
+  xy: 398, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRejuvPotion
+  rotate: false
+  xy: 464, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRejuvenation
+  rotate: false
+  xy: 530, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRejuvenationPotion
+  rotate: false
+  xy: 596, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRepair
+  rotate: false
+  xy: 662, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRepairOff
+  rotate: false
+  xy: 728, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRepairOn
+  rotate: false
+  xy: 728, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNReplay-Loop
+  rotate: false
+  xy: 794, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNReplay-Pause
+  rotate: false
+  xy: 860, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNReplay-Play
+  rotate: false
+  xy: 926, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNReplay-SpeedDown
+  rotate: false
+  xy: 992, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNReplay-SpeedUp
+  rotate: false
+  xy: 1058, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNReplenishHealth
+  rotate: false
+  xy: 1124, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNReplenishHealthOff
+  rotate: false
+  xy: 1124, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNReplenishHealthOn
+  rotate: false
+  xy: 1124, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNReplenishMana
+  rotate: false
+  xy: 2, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNReplenishManaOff
+  rotate: false
+  xy: 2, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNReplenishManaOn
+  rotate: false
+  xy: 2, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNResStone
+  rotate: false
+  xy: 68, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNResistMagic
+  rotate: false
+  xy: 134, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNResistantSkin
+  rotate: false
+  xy: 200, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNResurrection
+  rotate: false
+  xy: 266, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNReturnGoods
+  rotate: false
+  xy: 332, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNReveal
+  rotate: false
+  xy: 398, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRevenant
+  rotate: false
+  xy: 464, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRiderlessHorse
+  rotate: false
+  xy: 530, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRiderlessKodo
+  rotate: false
+  xy: 596, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRifleman
+  rotate: false
+  xy: 662, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRingGreen
+  rotate: false
+  xy: 728, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRingJadeFalcon
+  rotate: false
+  xy: 794, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRingLionHead
+  rotate: false
+  xy: 860, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRingPurple
+  rotate: false
+  xy: 926, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRingSkull
+  rotate: false
+  xy: 992, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRingVioletSpider
+  rotate: false
+  xy: 1058, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRobeOfTheMagi
+  rotate: false
+  xy: 1124, 2642
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRockGolem
+  rotate: false
+  xy: 2, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRockTower
+  rotate: false
+  xy: 68, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRodOfNecromancy
+  rotate: false
+  xy: 134, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRoot
+  rotate: false
+  xy: 200, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRune
+  rotate: false
+  xy: 266, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNRunedBracers
+  rotate: false
+  xy: 332, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSacrifice
+  rotate: false
+  xy: 398, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSacrificialPit
+  rotate: false
+  xy: 464, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSacrificialSkull
+  rotate: false
+  xy: 530, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSasquatch
+  rotate: false
+  xy: 596, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSasquatchShaman
+  rotate: false
+  xy: 662, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSatyr
+  rotate: false
+  xy: 728, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSatyrTrickster
+  rotate: false
+  xy: 794, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNScatterRockets
+  rotate: false
+  xy: 860, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNScepterOfMastery
+  rotate: false
+  xy: 926, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNScourgeBuild
+  rotate: false
+  xy: 992, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNScout
+  rotate: false
+  xy: 1058, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNScroll
+  rotate: false
+  xy: 1124, 2708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNScrollOfHaste
+  rotate: false
+  xy: 2, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNScrollOfHealing
+  rotate: false
+  xy: 68, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNScrollOfProtection
+  rotate: false
+  xy: 134, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNScrollOfRegeneration
+  rotate: false
+  xy: 200, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNScrollOfRegenerationGreen
+  rotate: false
+  xy: 266, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNScrollOfTownPortal
+  rotate: false
+  xy: 332, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNScrollUber
+  rotate: false
+  xy: 398, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSeaElemental
+  rotate: false
+  xy: 464, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSeaGiant
+  rotate: false
+  xy: 530, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSeaGiantGreen
+  rotate: false
+  xy: 596, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSeaGiantPulverize
+  rotate: false
+  xy: 662, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSeaGiantWarStomp
+  rotate: false
+  xy: 728, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSeaTurtleGreen
+  rotate: false
+  xy: 794, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSeaTurtleRed
+  rotate: false
+  xy: 860, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSeaWitch
+  rotate: false
+  xy: 926, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSeal
+  rotate: false
+  xy: 992, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSearingArrows
+  rotate: false
+  xy: 1058, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSearingArrowsOff
+  rotate: false
+  xy: 1124, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSearingArrowsOn
+  rotate: false
+  xy: 1124, 2774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSeigeEngine
+  rotate: false
+  xy: 2, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSeigeEngineWithMissles
+  rotate: false
+  xy: 68, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSelectHeroOff
+  rotate: false
+  xy: 134, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSelectHeroOn
+  rotate: false
+  xy: 200, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSelectUnit
+  rotate: false
+  xy: 266, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSelfDestruct
+  rotate: false
+  xy: 332, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSelfDestructOff
+  rotate: false
+  xy: 398, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSelfDestructOn
+  rotate: false
+  xy: 398, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSell
+  rotate: false
+  xy: 464, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSentinel
+  rotate: false
+  xy: 530, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSentryWard
+  rotate: false
+  xy: 596, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSerpentWard
+  rotate: false
+  xy: 662, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNShade
+  rotate: false
+  xy: 728, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNShadowHunter
+  rotate: false
+  xy: 794, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNShadowMeld
+  rotate: false
+  xy: 860, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNShadowPact
+  rotate: false
+  xy: 926, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNShadowStrike
+  rotate: false
+  xy: 992, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNShaman
+  rotate: false
+  xy: 1058, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNShamanAdept
+  rotate: false
+  xy: 1124, 2840
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNShamanMaster
+  rotate: false
+  xy: 2, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNShandris
+  rotate: false
+  xy: 68, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSheep
+  rotate: false
+  xy: 134, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNShimmerWeed
+  rotate: false
+  xy: 200, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNShip
+  rotate: false
+  xy: 266, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNShockWave
+  rotate: false
+  xy: 332, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNShoveler
+  rotate: false
+  xy: 398, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNShrineOfAszhara
+  rotate: false
+  xy: 464, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSilence
+  rotate: false
+  xy: 530, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSirenAdept
+  rotate: false
+  xy: 596, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSirenMaster
+  rotate: false
+  xy: 662, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSkeletalLongevity
+  rotate: false
+  xy: 728, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSkeletalOrc
+  rotate: false
+  xy: 794, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSkeletalOrcChampion
+  rotate: false
+  xy: 860, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSkeletalOrcGrunt
+  rotate: false
+  xy: 926, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSkeletonArcher
+  rotate: false
+  xy: 992, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSkeletonMage
+  rotate: false
+  xy: 1058, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSkeletonWarrior
+  rotate: false
+  xy: 662, 2510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSkillz
+  rotate: false
+  xy: 1124, 2906
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSkink
+  rotate: false
+  xy: 2, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSlaughterHouse
+  rotate: false
+  xy: 68, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSleep
+  rotate: false
+  xy: 134, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSlippersOfAgility
+  rotate: false
+  xy: 200, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSlow
+  rotate: false
+  xy: 266, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSlowOff
+  rotate: false
+  xy: 332, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSlowOn
+  rotate: false
+  xy: 332, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSlowPoison
+  rotate: false
+  xy: 398, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSludgeCreature
+  rotate: false
+  xy: 464, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSmash
+  rotate: false
+  xy: 530, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSnapDragon
+  rotate: false
+  xy: 596, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSnazzyPotion
+  rotate: false
+  xy: 662, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSnazzyScroll
+  rotate: false
+  xy: 728, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSnazzyScrollGreen
+  rotate: false
+  xy: 794, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSnazzyScrollPurple
+  rotate: false
+  xy: 860, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSnowOwl
+  rotate: false
+  xy: 926, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSobiMask
+  rotate: false
+  xy: 992, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSorceress
+  rotate: false
+  xy: 1058, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSorceressAdept
+  rotate: false
+  xy: 1124, 2972
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSorceressMaster
+  rotate: false
+  xy: 2, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSoulGem
+  rotate: false
+  xy: 68, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpawningGrounds
+  rotate: false
+  xy: 134, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpellBookBLS
+  rotate: false
+  xy: 200, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpellBreaker
+  rotate: false
+  xy: 266, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpellBreakerMagicDefend
+  rotate: false
+  xy: 332, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpellBreakerMagicUnDefend
+  rotate: false
+  xy: 398, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpellShieldAmulet
+  rotate: false
+  xy: 464, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpellSteal
+  rotate: false
+  xy: 530, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpellStealOff
+  rotate: false
+  xy: 596, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpellStealOn
+  rotate: false
+  xy: 596, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpider
+  rotate: false
+  xy: 662, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpiderBlack
+  rotate: false
+  xy: 728, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpiderBlue
+  rotate: false
+  xy: 794, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpiderCrab
+  rotate: false
+  xy: 860, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpiderGreen
+  rotate: false
+  xy: 926, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpiderSilkBroach
+  rotate: false
+  xy: 992, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpiderling
+  rotate: false
+  xy: 1058, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpikedBarricades
+  rotate: false
+  xy: 1124, 3038
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpinyCrab
+  rotate: false
+  xy: 2, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpiritLink
+  rotate: false
+  xy: 68, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpiritLodge
+  rotate: false
+  xy: 134, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpiritOfVengeance
+  rotate: false
+  xy: 200, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpiritWalker
+  rotate: false
+  xy: 266, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpiritWalkerAdeptTraining
+  rotate: false
+  xy: 332, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpiritWalkerMasterTraining
+  rotate: false
+  xy: 398, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpiritWolf
+  rotate: false
+  xy: 464, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpiritWyvern
+  rotate: false
+  xy: 530, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSpy
+  rotate: false
+  xy: 596, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNStaffOfNegation
+  rotate: false
+  xy: 662, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNStaffOfPreservation
+  rotate: false
+  xy: 728, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNStaffOfPurification
+  rotate: false
+  xy: 794, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNStaffOfSanctuary
+  rotate: false
+  xy: 860, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNStaffOfSilence
+  rotate: false
+  xy: 926, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNStaffOfTeleportation
+  rotate: false
+  xy: 992, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNStag
+  rotate: false
+  xy: 1058, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNStampede
+  rotate: false
+  xy: 1124, 3104
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNStarFall
+  rotate: false
+  xy: 2, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNStarWand
+  rotate: false
+  xy: 68, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNStasisTrap
+  rotate: false
+  xy: 134, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNStatUp
+  rotate: false
+  xy: 200, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSteamTank
+  rotate: false
+  xy: 266, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSteelArmor
+  rotate: false
+  xy: 332, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSteelMelee
+  rotate: false
+  xy: 398, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSteelRanged
+  rotate: false
+  xy: 464, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNStone
+  rotate: false
+  xy: 530, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNStoneArchitecture
+  rotate: false
+  xy: 596, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNStoneForm
+  rotate: false
+  xy: 662, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNStop
+  rotate: false
+  xy: 728, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNStormBolt
+  rotate: false
+  xy: 794, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNStormBrewMaster
+  rotate: false
+  xy: 860, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNStormEarth&Fire
+  rotate: false
+  xy: 926, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNStormHammer
+  rotate: false
+  xy: 992, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNStrengthOfTheMoon
+  rotate: false
+  xy: 1058, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNStrengthOfTheWild
+  rotate: false
+  xy: 1124, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNStrongDrink
+  rotate: false
+  xy: 2, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNStrongHold
+  rotate: false
+  xy: 68, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNStun
+  rotate: false
+  xy: 134, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSummonWaterElemental
+  rotate: false
+  xy: 200, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSunKey
+  rotate: false
+  xy: 266, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSupportBeam
+  rotate: false
+  xy: 332, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNSylvanusWindRunner
+  rotate: false
+  xy: 398, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTalisman
+  rotate: false
+  xy: 464, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTameHippogriff
+  rotate: false
+  xy: 530, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTaunt
+  rotate: false
+  xy: 596, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTauren
+  rotate: false
+  xy: 662, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTaurenHut
+  rotate: false
+  xy: 728, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTaurenTotem
+  rotate: false
+  xy: 794, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTavern
+  rotate: false
+  xy: 860, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTelescope
+  rotate: false
+  xy: 926, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTemp
+  rotate: false
+  xy: 992, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTempleOfTheDamned
+  rotate: false
+  xy: 1058, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTempleOfTides
+  rotate: false
+  xy: 1124, 3236
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTentacle
+  rotate: false
+  xy: 2, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTheBlackArrow
+  rotate: false
+  xy: 68, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTheBlackArrowOnOff
+  rotate: false
+  xy: 68, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTheCaptain
+  rotate: false
+  xy: 134, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNThickFur
+  rotate: false
+  xy: 200, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNThievesGuild
+  rotate: false
+  xy: 266, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNThoriumArmor
+  rotate: false
+  xy: 332, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNThoriumMelee
+  rotate: false
+  xy: 398, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNThoriumRanged
+  rotate: false
+  xy: 464, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNThornShield
+  rotate: false
+  xy: 530, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNThorns
+  rotate: false
+  xy: 596, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNThornyShieldOff
+  rotate: false
+  xy: 662, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNThrall
+  rotate: false
+  xy: 728, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNThunderClap
+  rotate: false
+  xy: 794, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNThunderLizard
+  rotate: false
+  xy: 860, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNThunderLizardEgg
+  rotate: false
+  xy: 926, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNThunderLizardSalamander
+  rotate: false
+  xy: 992, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNThunderLizardVizier
+  rotate: false
+  xy: 1058, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTichondrius
+  rotate: false
+  xy: 1124, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTidalGuardian
+  rotate: false
+  xy: 2, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTimberWolf
+  rotate: false
+  xy: 68, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTinyCastle
+  rotate: false
+  xy: 134, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTombOfRelics
+  rotate: false
+  xy: 200, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTome
+  rotate: false
+  xy: 266, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTomeBrown
+  rotate: false
+  xy: 332, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTomeOfRetraining
+  rotate: false
+  xy: 398, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTomeRed
+  rotate: false
+  xy: 464, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTornado
+  rotate: false
+  xy: 530, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTower
+  rotate: false
+  xy: 2, 2312
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTownHall
+  rotate: false
+  xy: 596, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTranquility
+  rotate: false
+  xy: 662, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTransport
+  rotate: false
+  xy: 728, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTreant
+  rotate: false
+  xy: 794, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTreeOfAges
+  rotate: false
+  xy: 860, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTreeOfEternity
+  rotate: false
+  xy: 926, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTreeOfLife
+  rotate: false
+  xy: 992, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTrollBatRider
+  rotate: false
+  xy: 1058, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTrollBurrow
+  rotate: false
+  xy: 1124, 3368
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTrueShot
+  rotate: false
+  xy: 2, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTuskaarBlack
+  rotate: false
+  xy: 68, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTuskaarBrown
+  rotate: false
+  xy: 134, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTuskaarGold
+  rotate: false
+  xy: 200, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNTuskaarNomad
+  rotate: false
+  xy: 266, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUltravision
+  rotate: false
+  xy: 332, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUnLoad
+  rotate: false
+  xy: 398, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUnbroken
+  rotate: false
+  xy: 464, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUndeadAirBarge
+  rotate: false
+  xy: 530, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUndeadBattleShip
+  rotate: false
+  xy: 596, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUndeadCaptureFlag
+  rotate: false
+  xy: 662, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUndeadDestroyer
+  rotate: false
+  xy: 728, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUndeadLoad
+  rotate: false
+  xy: 794, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUndeadLoadOff
+  rotate: false
+  xy: 860, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUndeadLoadOn
+  rotate: false
+  xy: 860, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUndeadShipyard
+  rotate: false
+  xy: 926, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUndeadShrine
+  rotate: false
+  xy: 992, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUndeadTransport
+  rotate: false
+  xy: 1058, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUndeadUnLoad
+  rotate: false
+  xy: 1124, 3434
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUnholyArmor
+  rotate: false
+  xy: 2, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUnholyAura
+  rotate: false
+  xy: 68, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUnholyFrenzy
+  rotate: false
+  xy: 134, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUnholyStrength
+  rotate: false
+  xy: 200, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUnloadDwarf
+  rotate: false
+  xy: 266, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUnloadPeon
+  rotate: false
+  xy: 332, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUnstableConcoction
+  rotate: false
+  xy: 398, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUnsummonBuilding
+  rotate: false
+  xy: 464, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUpgradeMoonGlaive
+  rotate: false
+  xy: 530, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUpgradeRegenerationAura
+  rotate: false
+  xy: 596, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUproot
+  rotate: false
+  xy: 662, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUrnOfKelThuzad
+  rotate: false
+  xy: 728, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNUsedSoulGem
+  rotate: false
+  xy: 794, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNVampiricAura
+  rotate: false
+  xy: 860, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNVengeanceIncarnate
+  rotate: false
+  xy: 926, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNVialEmpty
+  rotate: false
+  xy: 992, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNVialFull
+  rotate: false
+  xy: 1058, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNVillagerKid
+  rotate: false
+  xy: 1124, 3500
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNVillagerKid2
+  rotate: false
+  xy: 2, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNVillagerMan
+  rotate: false
+  xy: 68, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNVillagerMan1
+  rotate: false
+  xy: 134, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNVillagerWoman
+  rotate: false
+  xy: 200, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNVoidWalker
+  rotate: false
+  xy: 266, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNVoodooLounge
+  rotate: false
+  xy: 332, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNVorpalBlades
+  rotate: false
+  xy: 398, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNVulture
+  rotate: false
+  xy: 464, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWallOfFire
+  rotate: false
+  xy: 530, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWand
+  rotate: false
+  xy: 596, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWandOfCyclone
+  rotate: false
+  xy: 662, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWandOfManaSteal
+  rotate: false
+  xy: 728, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWandOfNeutralization
+  rotate: false
+  xy: 794, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWandOfShadowSight
+  rotate: false
+  xy: 860, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWandSkull
+  rotate: false
+  xy: 926, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWarEagle
+  rotate: false
+  xy: 992, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWarStomp
+  rotate: false
+  xy: 1058, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWarden2
+  rotate: false
+  xy: 1124, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWaygate
+  rotate: false
+  xy: 2, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWeb
+  rotate: false
+  xy: 68, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWebOff
+  rotate: false
+  xy: 134, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWebOn
+  rotate: false
+  xy: 134, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWellSpring
+  rotate: false
+  xy: 200, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWendigo
+  rotate: false
+  xy: 266, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWhirlwind
+  rotate: false
+  xy: 332, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWindSerpent
+  rotate: false
+  xy: 398, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWindWalkOff
+  rotate: false
+  xy: 464, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWindWalkOn
+  rotate: false
+  xy: 530, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWirtsLeg
+  rotate: false
+  xy: 596, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWirtsOtherLeg
+  rotate: false
+  xy: 662, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWisp
+  rotate: false
+  xy: 728, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWispHealOff
+  rotate: false
+  xy: 794, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWispHealOn
+  rotate: false
+  xy: 794, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWispSplode
+  rotate: false
+  xy: 860, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWitchDoctor
+  rotate: false
+  xy: 926, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWitchDoctorAdept
+  rotate: false
+  xy: 992, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWitchDoctorMaster
+  rotate: false
+  xy: 1058, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWolf
+  rotate: false
+  xy: 1124, 3632
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWorkshop
+  rotate: false
+  xy: 2, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWyvern
+  rotate: false
+  xy: 68, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNWyvernRider
+  rotate: false
+  xy: 134, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNYouDirtyRat!
+  rotate: false
+  xy: 200, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNZergling
+  rotate: false
+  xy: 266, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNZiggurat
+  rotate: false
+  xy: 332, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNZigguratUpgrade
+  rotate: false
+  xy: 398, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNZombie
+  rotate: false
+  xy: 464, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNeredarRed
+  rotate: false
+  xy: 530, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNnerubianSpiderLord
+  rotate: false
+  xy: 596, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNneutralManaShieldOff
+  rotate: false
+  xy: 662, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISBTNpurpleDragonSpawn
+  rotate: false
+  xy: 728, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNBash
+  rotate: false
+  xy: 794, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNBattleRoar
+  rotate: false
+  xy: 860, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNBrilliance
+  rotate: false
+  xy: 926, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNCleavingAttack
+  rotate: false
+  xy: 992, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNCommand
+  rotate: false
+  xy: 1058, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNCorrosiveBreath
+  rotate: false
+  xy: 1124, 3698
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNCriticalStrike
+  rotate: false
+  xy: 2, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNDevotion
+  rotate: false
+  xy: 68, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNDrum
+  rotate: false
+  xy: 134, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNDrunkenDodge
+  rotate: false
+  xy: 200, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNEnvenomedSpear
+  rotate: false
+  xy: 266, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNEvasion
+  rotate: false
+  xy: 332, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNExhumeCorpses
+  rotate: false
+  xy: 398, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNFeedBack
+  rotate: false
+  xy: 464, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNFireRocks
+  rotate: false
+  xy: 530, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNFlakCannons
+  rotate: false
+  xy: 596, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNFlyingMachineTrueSight
+  rotate: false
+  xy: 662, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNFragmentationBombs
+  rotate: false
+  xy: 728, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNFreezingBreath
+  rotate: false
+  xy: 794, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNFrost
+  rotate: false
+  xy: 860, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNGenericSpellImmunity
+  rotate: false
+  xy: 926, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNGnollCommandAura
+  rotate: false
+  xy: 992, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNGyroCopterTrueSight
+  rotate: false
+  xy: 662, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNHardenedSkin
+  rotate: false
+  xy: 1058, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNHumanArtilleryUpOne
+  rotate: false
+  xy: 1124, 3764
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNImmolation
+  rotate: false
+  xy: 2, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNImpalingBolt
+  rotate: false
+  xy: 68, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNLiquidFire
+  rotate: false
+  xy: 134, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNMagicImmunity
+  rotate: false
+  xy: 200, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNMagicalSentry
+  rotate: false
+  xy: 266, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNPillage
+  rotate: false
+  xy: 332, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNPlagueCloud
+  rotate: false
+  xy: 398, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNPoisonSting
+  rotate: false
+  xy: 464, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNRegenerate
+  rotate: false
+  xy: 530, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNRegenerationAura
+  rotate: false
+  xy: 200, 2576
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNReincarnation
+  rotate: false
+  xy: 596, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNResistantSkin
+  rotate: false
+  xy: 662, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNScatterRockets
+  rotate: false
+  xy: 728, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNScout
+  rotate: false
+  xy: 794, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNSeaGiantPulverize
+  rotate: false
+  xy: 860, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNShadeTrueSight
+  rotate: false
+  xy: 926, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNSlowPoison
+  rotate: false
+  xy: 992, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNSmash
+  rotate: false
+  xy: 1058, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNSpiritOfVengeance
+  rotate: false
+  xy: 1124, 3830
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNStatUp
+  rotate: false
+  xy: 200, 3170
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNStormHammer
+  rotate: false
+  xy: 2, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNThickFur
+  rotate: false
+  xy: 200, 3302
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNThornShield
+  rotate: false
+  xy: 68, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNThorns
+  rotate: false
+  xy: 134, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNTrueShot
+  rotate: false
+  xy: 200, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNUnholyAura
+  rotate: false
+  xy: 266, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNUpgradeMoonGlaive
+  rotate: false
+  xy: 332, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNVampiricAura
+  rotate: false
+  xy: 398, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNVorpalBlades
+  rotate: false
+  xy: 398, 3566
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISPASBTNWarStomp
+  rotate: false
+  xy: 464, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DIShuman-inventory-slotfiller
+  rotate: false
+  xy: 530, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISnightelf-inventory-slotfiller
+  rotate: false
+  xy: 596, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISorc-inventory-slotfiller
+  rotate: false
+  xy: 662, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+DISundead-inventory-slotfiller
+  rotate: false
+  xy: 728, 3896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
